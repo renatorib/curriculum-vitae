@@ -72,7 +72,7 @@ Estou todos os dias estudando e aprendendo coisas novas por contra própria.
 * HTML, CSS
 * Npm, Bower, Git
 * Gulp, Grunt
-* Stylus, Sass
+* Stylus, Sass, Less
 * jQuery, VueJS, Backbone
 * PHP, CakePHP2
 
