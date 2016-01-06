@@ -82,16 +82,16 @@ Gosto muito da comunidade open source e tenho alguns projetos abertos aqui no gi
 
 #### janimate
 Suporte para utilização de Animate.css com jQuery  
-[Github (56★)](http://github.com/renatorib/janimate) - 
+[Github](http://github.com/renatorib/janimate) - 
 [Site](http://renatorib.github.io/janimate)
 
 #### bjson
 Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
-[Github (26★)](http://github.com/renatorib/bjson)
+[Github](http://github.com/renatorib/bjson)
 
 #### lo-jsondb
 Um mini banco de dados nosql com lodash que usa arquivos .json locais  
-[Github (15★)](http://github.com/renatorib/lo-jsondb)
+[Github](http://github.com/renatorib/lo-jsondb)
 
 ## Idiomas
 
