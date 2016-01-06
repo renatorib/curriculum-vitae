@@ -1,8 +1,7 @@
 # Renato Ribeiro
 
 Desenvolvedor front-end, 20 anos.  
-[http://rena.to](http://rena.to)   
-renatoribroman@gmail.com - (11) 9 6076 2016
+http://rena.to - renatoribroman@gmail.com - (11) 9 6076 2016
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a programar aos treze anos de idade com incentivo da mente criativa e curiosa, junto ao desejo de aprender como as coisas funcionavam. 
 Comecei a trabalhar aos 15, com experiências profissionais em frontend e backend (php). Também passei por duas startups.
