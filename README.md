@@ -62,7 +62,6 @@ Curso de PHP Intensivo (40 horas)
 Bacharelado em Sistemas de Informação
 
 #### Autodidata
-Sempre - Sempre  
 A maior parte do que sei eu aprendi sozinho.   
 Estou todos os dias estudando e aprendendo coisas novas por contra própria.
 
@@ -78,30 +77,30 @@ Estou todos os dias estudando e aprendendo coisas novas por contra própria.
 
 ## Open Source
 
-Gosto muito da comunidade open source e tenho alguns projetos abertos aqui no github
+Sou adepto à comunidade open source e tenho alguns projetos abertos no github
+
+#### bjson
+Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
+[Github](http://github.com/renatorib/bjson)
 
 #### janimate
 Suporte para utilização de Animate.css com jQuery  
 [Github](http://github.com/renatorib/janimate) - 
 [Site](http://renatorib.github.io/janimate)
 
-#### bjson
-Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
-[Github](http://github.com/renatorib/bjson)
-
 #### lo-jsondb
-Um mini banco de dados nosql com lodash que usa arquivos .json locais  
+Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais
 [Github](http://github.com/renatorib/lo-jsondb)
 
 ## Idiomas
 
 * **Português:** Nativo
-* **Inglês:** - Intermediário
-* **Espanhol:** - Básico
+* **Inglês:** Intermediário
+* **Espanhol:** Básico
 
 ## Links
 
-* **Facebook:** https://www.facebook.com/renatoribeiiro
+* **Facebook:** http://fb.me/renatoribeiiro
 * **Email:** renatoribroman@gmail.com
 * **Website/Portfólio:** http://rena.to/
 
