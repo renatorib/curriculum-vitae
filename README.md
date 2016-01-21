@@ -89,7 +89,7 @@ Suporte para utilização de Animate.css com jQuery
 [Site](http://renatorib.github.io/janimate)
 
 #### lo-jsondb
-Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais
+Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais  
 [Github](http://github.com/renatorib/lo-jsondb)
 
 ## Idiomas
