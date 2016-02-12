@@ -15,7 +15,7 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 
 ### CarPrev 
 
-Designer & Frontend Developer – Janeiro 2015 - Janeiro 2016
+Designer & Frontend Developer – Janeiro 2015 - Janeiro 2016  
 Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)
 
 > A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
