@@ -48,16 +48,11 @@ Criação de sites em wordpress, aplicando regras de SEO.
 ## Formação
 
 * [Impacta](/#impacta)
-* [FIAP](/#fiap)
 * [Autodidata](/#autodidata)
 
 #### Impacta
 2011 - 2011  
 Curso de PHP Intensivo (40 horas)
-
-#### FIAP
-2014 - 2014 _(não concluído)_  
-Bacharelado em Sistemas de Informação
 
 #### Autodidata
 A maior parte do que sei eu aprendi sozinho.   
