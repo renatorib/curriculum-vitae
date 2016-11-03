@@ -8,6 +8,7 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 
 ## Experiências
 
+* [Dr.Vem! 2016](/#drvem)
 * [CarPrev 2015](/#carprev)
 * [Plaay ME 2014](/#plaay-me)
 * [Nokitua 2013-2014](/#nokitua)
