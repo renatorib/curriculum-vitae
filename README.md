@@ -13,6 +13,16 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 * [Nokitua 2013-2014](/#nokitua)
 * [EMBI Marketing 2012](/#embi-marketing)
 
+### Dr.Vem!
+
+Frontend Engineer - Março 2016 - *Atual*
+Desenvolvimento de WebApps do médico e do paciente com React, Redux, Webpack e PostCSS.
+Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.
+Criação da nova Landing Page com Gatsby (Static React com Server Rendering).
+
+> A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar. 
+> É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.
+
 ### CarPrev 
 
 Designer & Frontend Developer – Janeiro 2015 - Janeiro 2016  
