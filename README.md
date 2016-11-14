@@ -15,8 +15,8 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 * [EMBI Marketing 2011-2012](/#embi-marketing)
 
 ### Dr.Vem!
+###### Frontend Engineer - Março 2016 - *Atual*  
 
-Frontend Engineer - Março 2016 - *Atual*  
 Desenvolvimento de WebApps do médico e do paciente com React, Redux, Webpack e PostCSS.  
 Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
 Criação da nova Landing Page com Gatsby (Static React com Server Rendering).  
@@ -24,32 +24,32 @@ Criação da nova Landing Page com Gatsby (Static React com Server Rendering).
 > A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar. 
 > É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.
 
-### CarPrev 
+### CarPrev
+###### Designer & Frontend Developer – Janeiro 2015 - Julho 2015  
 
-Designer & Frontend Developer – Janeiro 2015 - Julho 2015  
 Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)
 
 > A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
 > Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
 
-### Plaay ME 
+### Plaay ME
+###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
 
-Backend & Frontend Developer – Abril 2014 - Novembro 2014  
 Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-webkit
 
 > O Plaay é um projeto de gênero musical que nasceu no início de 2013. 
 > Com o Plaay você consegue com apenas alguns cliques ouvir músicas, organizar as suas favoritas em playlists.
 
-### Nokitua 
+### Nokitua
+###### Backend & Frontend Developer – Setembro 2013 - Abril 2014
 
-Backend & Frontend Developer – Setembro 2013 - Abril 2014  
 Trabalhei criando sites em wordpress e sistemas em cakephp.
 
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.
 
-### EMBI Marketing  
+### EMBI Marketing
+###### Web designer aprendiz – Maio 2011 - Janeiro 2012
 
-Web designer aprendiz – Maio 2011 - Janeiro 2012  
 Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.  
 Criação de sites em wordpress, aplicando regras de SEO.
 
