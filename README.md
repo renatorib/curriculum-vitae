@@ -32,7 +32,7 @@ Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e
 > A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
 > Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
 
-#### Plaay ME 
+### Plaay ME 
 
 Backend & Frontend Developer – Abril 2014 - Novembro 2014  
 Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-webkit
@@ -40,14 +40,14 @@ Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-we
 > O Plaay é um projeto de gênero musical que nasceu no início de 2013. 
 > Com o Plaay você consegue com apenas alguns cliques ouvir músicas, organizar as suas favoritas em playlists.
 
-#### Nokitua 
+### Nokitua 
 
 Backend & Frontend Developer – Setembro 2013 - Abril 2014  
 Trabalhei criando sites em wordpress e sistemas em cakephp.
 
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.
 
-#### EMBI Marketing  
+### EMBI Marketing  
 
 Web designer aprendiz – Maio 2011 - Janeiro 2012  
 Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.  
