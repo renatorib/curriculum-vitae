@@ -16,7 +16,7 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 
 ### Dr.Vem!
 
-Frontend Engineer - Março 2016 - *Atual*
+Frontend Engineer - Março 2016 - *Atual*  
 Desenvolvimento de WebApps do médico e do paciente com React, Redux, Webpack e PostCSS.  
 Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
 Criação da nova Landing Page com Gatsby (Static React com Server Rendering).  
