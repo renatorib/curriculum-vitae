@@ -12,7 +12,7 @@ Comecei a trabalhar aos 15, com experiências profissionais em frontend e backen
 * [CarPrev 2015](/#carprev)
 * [Plaay ME 2014](/#plaay-me)
 * [Nokitua 2013-2014](/#nokitua)
-* [EMBI Marketing 2012](/#embi-marketing)
+* [EMBI Marketing 2011-2012](/#embi-marketing)
 
 ### Dr.Vem!
 
@@ -26,7 +26,7 @@ Criação da nova Landing Page com Gatsby (Static React com Server Rendering).
 
 ### CarPrev 
 
-Designer & Frontend Developer – Janeiro 2015 - Janeiro 2016  
+Designer & Frontend Developer – Janeiro 2015 - Julho 2015  
 Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)
 
 > A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
@@ -62,21 +62,23 @@ Criação de sites em wordpress, aplicando regras de SEO.
 * [Autodidata](/#autodidata)
 
 #### Impacta
-2011 - 2011  
+2011
 Curso de PHP Intensivo (40 horas)
 
 #### Autodidata
 A maior parte do que sei eu aprendi sozinho.   
-Estou todos os dias estudando e aprendendo coisas novas por contra própria.
+Estou todos os dias estudando e aprendendo coisas novas por contra própria e pelas empresas por onde passo.
 
 ## Habilidades
 
 * JavaScript, NodeJS
 * HTML, CSS
 * Npm, Bower, Git
-* Gulp, Grunt
-* Stylus, Sass, Less
-* jQuery, VueJS, Backbone
+* PostCSS, Stylus, Sass
+* Webpack, Babel
+* React/Redux, jQuery, VueJS
+* Gulp
+
 * PHP, CakePHP2
 
 ## Open Source
