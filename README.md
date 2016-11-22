@@ -5,7 +5,7 @@
 **Email:** renatoribroman@gmail.com  
 **Telefone:** (11) 9 6076 2016  
 
-Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a programar aos treze anos de idade com incentivo da mente criativa e curiosa.  
+Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 12/13 anos com incentivo da mente curiosa e criativa.  
 Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas. Desde então não parei mais, e hoje com 20 anos já passei por cinco empresas, nas quais três startups.
 
 ## Experiências
