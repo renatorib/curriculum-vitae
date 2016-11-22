@@ -5,7 +5,7 @@
 **Email:** renatoribroman@gmail.com  
 **Telefone:** (11) 9 6076 2016  
 
-Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a programar aos treze anos de idade com incentivo da mente criativa e curiosa.
+Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a programar aos treze anos de idade com incentivo da mente criativa e curiosa.  
 Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas. Desde então não parei mais, e hoje com 20 anos já passei por cinco empresas, nas quais três startups.
 
 ## Experiências
@@ -39,7 +39,7 @@ Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e
 
 Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-webkit
 
-> O Plaay é um projeto de gênero musical que nasceu no início de 2013.
+> O Plaay é um projeto de gênero musical que nasceu no início de 2013.  
 > Com o Plaay você consegue com apenas alguns cliques ouvir músicas, organizar as suas favoritas em playlists.
 
 ### Nokitua
@@ -97,8 +97,7 @@ Permite que você edite arquivos .json reativamente usando eventos no objeto par
 
 #### janimate
 Suporte para utilização de Animate.css com jQuery  
-[Github](http://github.com/renatorib/janimate) -  
-[Site](http://renatorib.github.io/janimate)
+[Github](http://github.com/renatorib/janimate) - [Site](http://renatorib.github.io/janimate)
 
 #### lo-jsondb
 Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais  
