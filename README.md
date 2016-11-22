@@ -71,14 +71,13 @@ Estou todos os dias estudando e aprendendo coisas novas por contra própria e pe
 
 ## Habilidades
 
-* JavaScript, NodeJS
+* JavaScript/ES6, NodeJS
 * HTML, CSS
 * Npm, Bower, Git
 * PostCSS, Stylus, Sass
 * Webpack, Babel
 * React/Redux, jQuery, VueJS
 * Gulp
-
 * PHP, CakePHP2
 
 ## Open Source
