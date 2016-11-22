@@ -1,9 +1,9 @@
 # Renato Ribeiro
 *Frontend Engineer, 20 anos.*
 
-**Site pessoal:** http://rena.to
-**Email:** renatoribroman@gmail.com
-**Telefone:** (11) 9 6076 2016
+**Site pessoal:** http://rena.to  
+**Email:** renatoribroman@gmail.com  
+**Telefone:** (11) 9 6076 2016  
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a programar aos treze anos de idade com incentivo da mente criativa e curiosa.
 Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas. Desde então não parei mais, e hoje com 20 anos já passei por cinco empresas, nas quais três startups.
@@ -19,20 +19,20 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 ### Dr.Vem!
 ###### Frontend Engineer - Março 2016 - *Atual*
 
-Desenvolvimento de WebApps do médico e do paciente com React, Redux, Webpack e PostCSS.
-Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.
-Criação da nova Landing Page com Gatsby (Static React com Server Rendering).
+Desenvolvimento de WebApps do médico e do paciente com React, Redux, Webpack e PostCSS.  
+Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
+Criação da nova Landing Page com Gatsby (Static React com Server Rendering).  
 
-> A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar.
-> É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.
+> A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar.  
+> É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
 ### CarPrev
 ###### Designer & Frontend Developer – Janeiro 2015 - Julho 2015
 
-Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)
+Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)  
 
-> A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.
-> Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.
+> A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
+> Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
 
 ### Plaay ME
 ###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
@@ -45,18 +45,18 @@ Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-we
 ### Nokitua
 ###### Backend & Frontend Developer – Setembro 2013 - Abril 2014
 
-Trabalhei criando sites em wordpress e sistemas em cakephp.
-
-> A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.
+Trabalhei criando sites em wordpress e sistemas em cakephp.  
+  
+> A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
 ### EMBI Marketing
 ###### Web designer aprendiz – Maio 2011 - Janeiro 2012
 
-Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.
-Criação de sites em wordpress, aplicando regras de SEO.
-
-> A EMBI Marketing é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),
-> Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.
+Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.  
+Criação de sites em wordpress, aplicando regras de SEO.  
+  
+> A EMBI Marketing é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
+> Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
 
 ## Formação
 
@@ -64,19 +64,18 @@ Criação de sites em wordpress, aplicando regras de SEO.
 * [Autodidata](/#autodidata)
 
 #### Impacta
-2011
-Curso de PHP Intensivo (40 horas)
+2011  
+Curso de PHP Intensivo (40 horas)  
 
 #### Autodidata
-A maior parte do que sei eu aprendi sozinho.
-Estou todos os dias estudando e aprendendo coisas novas por contra própria e pelas empresas por onde passo.
+A maior parte do que sei eu aprendi sozinho.  
+Estou todos os dias estudando e aprendendo coisas novas por contra própria e pelas empresas por onde passo.  
 
-## Habilidades
-
-Possuo bastante habilidades que desenvolvi durante estes 5 anos de experiência no mercado profissional.
+## Habilidades  
+Possuo bastante habilidades que desenvolvi durante estes 5 anos de experiência no mercado profissional.  
 Hoje, meu foco é em **SPA com React**.
 
-Segue um resumo dos meus principais conhecimentos:
+Segue um resumo dos meus principais conhecimentos:  
 
 * JavaScript/ES6, NodeJS
 * HTML, CSS
@@ -90,30 +89,29 @@ Segue um resumo dos meus principais conhecimentos:
 *Tentei separar de um jeito que tenha alguma ligação próxima umas com as outras, e não necessariamente que tenha funções iguais/paralelas. Ex.: Webpack e Babel não têm as mesmas funções, mas possuem uma ligação bem próxima.*
 
 ## Open Source
-
-Sou adepto à comunidade open source e tenho alguns projetos abertos no github
+Sou adepto à comunidade open source e tenho alguns projetos abertos no github.  
 
 #### bjson
-Permite que você edite arquivos .json reativamente usando eventos no objeto parseado
+Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
 [Github](http://github.com/renatorib/bjson)
 
 #### janimate
-Suporte para utilização de Animate.css com jQuery
-[Github](http://github.com/renatorib/janimate) -
+Suporte para utilização de Animate.css com jQuery  
+[Github](http://github.com/renatorib/janimate) -  
 [Site](http://renatorib.github.io/janimate)
 
 #### lo-jsondb
-Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais
-[Github](http://github.com/renatorib/lo-jsondb)
+Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais  
+[Github](http://github.com/renatorib/lo-jsondb)  
 
 ## Idiomas
 
-* **Português:** Nativo
-* **Inglês:** Intermediário
-* **Espanhol:** Básico
+* **Português:** Nativo  
+* **Inglês:** Intermediário  
+* **Espanhol:** Básico  
 
 ## Links
 
-* **Facebook:** http://fb.me/renatoribeiiro
-* **Email:** renatoribroman@gmail.com
-* **Website/Portfólio:** http://rena.to/
+* **Facebook:** http://fb.me/renatoribeiiro  
+* **Email:** renatoribroman@gmail.com  
+* **Website/Portfólio:** http://rena.to/  
