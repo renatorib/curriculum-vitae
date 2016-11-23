@@ -37,7 +37,7 @@ Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e
 ### Plaay ME
 ###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
 
-> O Plaay é um projeto de gênero musical que nasceu no início de 2013.  
+> O Plaay é uma startup de gênero musical que nasceu no início de 2013.  
 > Com o Plaay você consegue com apenas alguns cliques ouvir músicas, organizar as suas favoritas em playlists.
 
 Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-webkit
