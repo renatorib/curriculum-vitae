@@ -32,7 +32,7 @@ Criação da nova Landing Page em React com Gatsby (Static React com Server Rend
 > A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
 > Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
 
-Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](http://carprev.com.br)  
+Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](https://web.archive.org/web/20160109211024/http://carprev.com.br/)  
 
 ### Plaay ME
 ###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
