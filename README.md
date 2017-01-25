@@ -6,7 +6,7 @@
 **Telefone:** (11) 9 6076 2016  
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 12/13 anos com incentivo da mente curiosa e criativa.  
-Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas. Desde então não parei mais, e hoje com 20 anos já passei por cinco empresas, nas quais três startups.
+Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas. Desde então não parei mais, e hoje com 21 anos já passei por seis empresas.
 
 ## Experiências
 
@@ -68,21 +68,11 @@ Trabalhei criando sites em wordpress e sistemas em cakephp.
 Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.  
 Criação de sites em wordpress, aplicando regras de SEO.  
 
-## Formação
-
-* [Impacta](/#impacta)
-* [Autodidata](/#autodidata)
-
-#### Impacta
-2011  
-Curso de PHP Intensivo (40 horas)  
-
-#### Autodidata
-A maior parte do que sei eu aprendi sozinho.  
+## Formação Autodidata
 Estou todos os dias estudando e aprendendo coisas novas por contra própria e pelas empresas por onde passo.  
 
 ## Habilidades  
-Possuo bastante habilidades que desenvolvi durante estes 5 anos de experiência no mercado profissional.  
+Possuo muitas habilidades que desenvolvi durante estes anos de experiência no mercado profissional.  
 Hoje, meu foco é em **SPA com React**.
 
 Segue um resumo dos meus principais conhecimentos:  
