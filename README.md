@@ -1,5 +1,5 @@
 # Renato Ribeiro
-*Frontend Engineer, 20 anos.*
+*Frontend Engineer, 21 anos.*
 
 **Site pessoal:** http://rena.to  
 **Email:** renatoribroman@gmail.com  
@@ -10,19 +10,29 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 
 ## Experiências
 
+* [OneMarket 2017](/#onemarket)
 * [Dr.Vem! 2016](/#drvem)
 * [CarPrev 2015](/#carprev)
 * [Plaay ME 2014](/#plaay-me)
 * [Nokitua 2013-2014](/#nokitua)
 * [EMBI Marketing 2011-2012](/#embi-marketing)
 
+### OneMarket
+###### Frontend Engineer - Dezembro 2016 - *Atual*
+
+> OneMarket é a empresa por trás de clubes de assinaturas focadas em alimentação saudável.  
+> Hoje no ar com [GlutenFreeBox](http://glutenfreebox.com.br) e [LacFreeBox](http://lacfreebox.com.br), e caminhando para o nascimento de novos clubes.
+
+Desenvolvimento de SPA da LacFreeBox em React/Redux.  
+Criação do UI-Kit em React/Storybook.
+
 ### Dr.Vem!
-###### Frontend Engineer - Março 2016 - *Atual*
+###### Frontend Engineer - Março 2016 - Dezembro 2016
 
 > A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar.  
 > É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
-Desenvolvimento de SPA do médico e do paciente com React/Redux, Webpack, PostCSS, etc.  
+Desenvolvimento de SPA do médico e do paciente com React/Redux.
 Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
 Criação da nova Landing Page em React com Gatsby (Static React com Server Rendering).  
 
@@ -93,7 +103,7 @@ Sou adepto à comunidade open source e tenho alguns projetos abertos no github.
 
 #### bjson
 Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
-[Github](http://github.com/renatorib/bjson)
+[Github](http://github.com/renatorib/bjson) [Legado/Abandonado]
 
 #### janimate
 Suporte para utilização de Animate.css com jQuery  
