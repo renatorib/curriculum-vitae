@@ -43,14 +43,14 @@ SPA development with React/Redux stack.
 ## Self-taught training
 
 I was always studying and learning new cool things by myself and by companies where I work.  
-*Currently: studying next.js and how to integrate cool redux stack without painfull and same minimalist mind of zeit.*
-
+*Currently: studying next.js and how to integrate cool redux stack without painfull and same minimalist mind of zeit. Also studying flow typings*
+ 
 ## Skills
 
-Now focused
+Now focused:
 - JS, ES6/ES7, NodeJS
 - Webpack 2, Babel, PostCSS
-- React / Redux
+- React, Redux & Cia.
 - Html, Css3
 - Yarn, Git
 
@@ -65,4 +65,4 @@ Others:
 
 * **Brazilian portuguese:** Native
 * **English:** Intermediary *(good read/write, bad speak/listen)*
-* **Español:** Basic *(by the close relationship with portuguese)*
+* **Spanish:** Basic *(by the close relationship with portuguese)*
