@@ -1,4 +1,4 @@
-[Portuguese version](https://github.com/renatorib/curriculum-vitae/blob/master/PT-BR.md)
+[Ler em português](https://github.com/renatorib/curriculum-vitae/blob/master/PT-BR.md)
 
 # Renato Ribeiro
 *Frontend Engineer, 21.*  
