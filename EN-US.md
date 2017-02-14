@@ -21,7 +21,7 @@ Since then, I've never stopped, and today with 21, I've been through five compan
 > Today live with [GlutenFreeBox](http://glutenfreebox.com.br) and [LacFreeBox](http://lacfreebox.com.br), and looking forward to new coming clubs.
 
 SPA development of LacFreeBox in React/Redux stack.  
-Developing of UI-Kit in React/Storybook stack.
+Development of UI-Kit in React/Storybook stack.
 
 ### Dr.Vem!
 ###### Frontend Engineer *(React)* - March 2016 - December 2016
