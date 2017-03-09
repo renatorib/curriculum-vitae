@@ -90,20 +90,6 @@ Segue um resumo dos meus principais conhecimentos:
 
 *Tentei separar de um jeito que tenha alguma ligação próxima umas com as outras, e não necessariamente que tenha funções iguais/paralelas. Ex.: Webpack e Babel não têm as mesmas funções, mas possuem uma ligação bem próxima.*
 
-## Open Source
-Sou adepto à comunidade open source e tenho alguns projetos abertos no github.  
-
-#### bjson
-Permite que você edite arquivos .json reativamente usando eventos no objeto parseado  
-[Github](http://github.com/renatorib/bjson) [Legado/Abandonado]
-
-#### janimate
-Suporte para utilização de Animate.css com jQuery  
-[Github](http://github.com/renatorib/janimate) - [Site](http://renatorib.github.io/janimate)
-
-#### lo-jsondb
-Mini banco de dados nosql, schemaless, zero-configuration, que usa arquivos .json locais  
-[Github](http://github.com/renatorib/lo-jsondb)  
 
 ## Idiomas
 
