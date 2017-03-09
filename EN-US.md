@@ -10,7 +10,6 @@
 I was born and raised in São Paulo, Brazil.  
 Since very young involved with computing, I started playing alone with programming when was twelve with incentive of my curious and creative mind.  
 My first professional experience was at age 15, even if with limited skills, I always tried hard to learn new things.  
-Since then, I've never stopped, and today with 21, I've been through five companies.   
 
 ## Experiences
 
