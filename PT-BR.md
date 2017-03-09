@@ -12,12 +12,12 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 
 ## Experiências
 
-* [OneMarket 2017](/#onemarket)
-* [Dr.Vem! 2016](/#drvem)
-* [CarPrev 2015](/#carprev)
-* [Plaay ME 2014](/#plaay-me)
-* [Nokitua 2013-2014](/#nokitua)
-* [EMBI Marketing 2011-2012](/#embi-marketing)
+* [OneMarket 2017](#onemarket)
+* [Dr.Vem! 2016](#drvem)
+* [CarPrev 2015](#carprev)
+* [Plaay ME 2014](#plaay-me)
+* [Nokitua 2013-2014](#nokitua)
+* [EMBI Marketing 2011-2012](#embi-marketing)
 
 ### OneMarket
 ###### Frontend Engineer - Dezembro 2016 - *Atual*
