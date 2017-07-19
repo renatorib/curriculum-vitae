@@ -23,10 +23,11 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 ###### Frontend Engineer - Dezembro 2016 - *Atual*
 
 > OneMarket é a empresa por trás de clubes de assinaturas focadas em alimentação saudável.  
-> Hoje no ar com [GlutenFreeBox](http://glutenfreebox.com.br) e [LacFreeBox](http://lacfreebox.com.br), e caminhando para o nascimento de novos clubes.
+> Hoje no ar com [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
 
-Desenvolvimento de SPA da LacFreeBox em React/Redux.  
-Criação do UI-Kit em React/Storybook.
+Desenvolvimento de SPA da aplicação de clubes de assinatura que mantém e da poderes à LacFreeBox, SugarFreeBox e VeganaBox em React/Redux/RR4.
+Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br).
+
 
 ### Dr.Vem!
 ###### Frontend Engineer - Março 2016 - Dezembro 2016
