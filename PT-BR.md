@@ -12,7 +12,7 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 
 ## Experiências
 
-* [OneMarket 2017](#onemarket)
+* [OneMarket 2017](#onemarket) - atual
 * [Dr.Vem! 2016](#drvem)
 * [CarPrev 2015](#carprev)
 * [Plaay ME 2014](#plaay-me)
@@ -35,14 +35,14 @@ Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br).
 > A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar.  
 > É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
-Desenvolvimento de SPA do médico e do paciente com React/Redux.
+Desenvolvimento de SPA da area do médico e do paciente com React/Redux.
 Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
 Criação da nova Landing Page em React com Gatsby (Static React com Server Rendering).  
 
 ### CarPrev
 ###### Designer & Frontend Developer – Janeiro 2015 - Julho 2015
 
-> A CarPrev é uma startup focada em automação de preventiva veicular e controle de frotas.  
+> A CarPrev foi uma startup focada em automação de preventiva veicular e controle de frotas.  
 > Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
 
 Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](https://web.archive.org/web/20160109211024/http://carprev.com.br/)  
@@ -120,4 +120,4 @@ Ecossistema React:
 
 * **Facebook:** http://fb.me/renatoribeiiro  
 * **Email:** renatoribroman@gmail.com  
-* **Website/Portfólio:** http://rena.to/  
+* **Website:** http://rena.to/  
