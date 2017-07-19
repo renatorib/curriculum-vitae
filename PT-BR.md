@@ -75,20 +75,38 @@ Estou todos os dias estudando e aprendendo coisas novas por contra própria e pe
 
 ## Habilidades  
 Possuo muitas habilidades que desenvolvi durante estes anos de experiência no mercado profissional.  
-Hoje, meu foco é em **SPA com React**.
+Hoje, porém, meu foco é em **SPA com React**.
 
-Segue um resumo dos meus principais conhecimentos:  
+Segue um resumo dos meus principais conhecimentos desenvolvidos:  
 
-* JavaScript/ES6, NodeJS
+* JavaScript/ES6+, Flow, NodeJS
 * HTML, CSS
-* Npm, Bower, Git
+* Yarn/Npm, Bower, Git
 * PostCSS, Stylus, Sass
 * Webpack, Babel
-* React/Redux, jQuery, VueJS
+* React/Redux/RR4, jQuery, VueJS (básico)
+* Lodash, Ramda, Recompose
 * Gulp
 * PHP, CakePHP2
 
-*Tentei separar de um jeito que tenha alguma ligação próxima umas com as outras, e não necessariamente que tenha funções iguais/paralelas. Ex.: Webpack e Babel não têm as mesmas funções, mas possuem uma ligação bem próxima.*
+*Tentei separar de um jeito que tenha alguma ligação próxima umas com as outras, e não necessariamente que tenha funções iguais/paralelas. Ex.: Webpack e Babel não têm os mesmos objetivos, mas possuem uma ligação bem próxima.*
+
+Conhecimentos que aplico **hoje** no meu dia a dia:
+
+* Git, Node, Yarn/Npm, ES6+
+* React/Redux/RR4, Flow
+* Webpack, Babel e Postcss
+* Ramda, Recompose
+
+Ecossistema React:
+
+*Além de conhecimentos sólidos em React e sua api, lifecycle e conceitos, desenvolvi alguns aprendizados com sua turminha ao longo do desenvolvimento das aplicações com que trabalhei. São eles:*
+
+* Redux, Redux Actions, Redux Saga (básico)
+* React Router 4
+* Recompose
+* Reselect (básico)
+* Styled Components e Glamorous (básico)
 
 
 ## Idiomas
