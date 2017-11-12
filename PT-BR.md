@@ -1,4 +1,4 @@
-[Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md) (outdated)
+[Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
 
 # Renato Ribeiro
 *Frontend Engineer, 21 anos.*
@@ -26,7 +26,6 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * Desenvolvimento da aplicação de clubes de assinatura que mantém LacFreeBox, SugarFreeBox, VeganaBox, OneBox e Clube Pic-Me em React, Redux, RR4, Reselect, PostCSS, com Flow.
 * Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br) com React, RR4.  
 * Desenvolvimento do novo ecommerce em React, RR4, GraphQL/Apollo, Glamorous, com TypeScript.
-
 
 ### Dr.Vem!
 ###### Frontend Engineer - Março 2016 - Dezembro 2016
@@ -69,7 +68,17 @@ Estou todos os dias estudando e aprendendo técnologias novas por contra própri
 Possuo muitas habilidades que desenvolvi durante estes anos de experiência no mercado profissional.  
 Hoje, porém, meu foco é em **React** e **GraphQL**.
 
-Segue um resumo dos meus principais conhecimentos desenvolvidos:  
+Conhecimentos que aplico **hoje** no meu dia a dia:
+
+* Git, NodeJS, Yarn
+* ES6+, TypeScript
+* React/Redux/RR4
+* Webpack, Babel e Postcss
+* Ramda, Recompose
+* Glamorous, Emotion
+* GraphQL + Apollo
+
+Resumo dos meus principais conhecimentos:  
 
 * Yarn/Npm, Git
 * JavaScript/ES6+, Flow
@@ -84,15 +93,7 @@ Segue um resumo dos meus principais conhecimentos desenvolvidos:
 * Gulp
 * PHP, CakePHP2
 
-Conhecimentos que aplico **hoje** no meu dia a dia:
-
-* Git, NodeJS, Yarn
-* ES6+, TypeScript
-* React/Redux/RR4
-* Webpack, Babel e Postcss
-* Ramda, Recompose
-* Glamorous, Emotion
-* GraphQL + Apollo
+*(separados por alguma ordem lógica semelhante, não necessariamente tecnologias correspondentes)*
 
 ## Open Source
 
@@ -108,6 +109,6 @@ Conhecimentos que aplico **hoje** no meu dia a dia:
 
 ## Links
 
-* **Facebook:** http://fb.me/renatoribeiiro  
-* **Email:** renatoribroman@gmail.com  
-* **Website:** http://rena.to/  
+* **Twitter:** http://twitter.com/renatorib_
+* **E-mail:** renatoribroman@gmail.com  
+* **Website:** http://rena.to/
