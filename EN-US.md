@@ -108,6 +108,6 @@ Summary of my main skills:
 
 ## Links
 
-* **Twitter:** http://twitter.com/renatorib_
+* **Twitter:** [http://twitter.com/renatorib_](http://twitter.com/renatorib_)
 * **E-mail:** renatoribroman@gmail.com  
 * **Website:** http://rena.to/
