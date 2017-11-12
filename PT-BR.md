@@ -109,6 +109,6 @@ Resumo dos meus principais conhecimentos:
 
 ## Links
 
-* **Twitter:** http://twitter.com/renatorib_
+* **Twitter:** [http://twitter.com/renatorib_](http://twitter.com/renatorib_)  
+* **Website:** http://rena.to/  
 * **E-mail:** renatoribroman@gmail.com  
-* **Website:** http://rena.to/
