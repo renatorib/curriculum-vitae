@@ -7,14 +7,12 @@
 **Email:** renatoribroman@gmail.com  
 **Telefone:** (11) 9 6076 2016  
 
-Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 12/13 anos com incentivo da mente curiosa e criativa.  
-Minha primeira experiência profissional foi com 15 anos, mesmo que com habilidades bem limitadas, sempre me esforcei pra aprender coisas novas.
+Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
 
 ## Experiências
 
 * [OneMarket 2017](#onemarket) - atual
 * [Dr.Vem! 2016](#drvem)
-* [CarPrev 2015](#carprev)
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
@@ -25,8 +23,9 @@ Minha primeira experiência profissional foi com 15 anos, mesmo que com habilida
 > OneMarket é a empresa por trás de clubes de assinaturas focadas em alimentação saudável.  
 > Hoje no ar com [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
 
-Desenvolvimento de SPA da aplicação de clubes de assinatura que mantém e da poderes à LacFreeBox, SugarFreeBox e VeganaBox em React/Redux/RR4.
-Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br).
+* Desenvolvimento da aplicação de clubes de assinatura que mantém LacFreeBox, SugarFreeBox, VeganaBox, OneBox e Clube Pic-Me em React, Redux, RR4, Reselect, PostCSS, com Flow.
+* Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br) com React, RR4.  
+* Desenvolvimento do novo ecommerce em React, RR4, GraphQL/Apollo, Glamorous, com TypeScript.
 
 
 ### Dr.Vem!
@@ -35,17 +34,8 @@ Desenvolvimento do site institucional da [OneMarket](https://onemarket.com.br).
 > A Dr.Vem! é uma startup de saúde, focada no atendimento domiciliar.  
 > É uma plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
-Desenvolvimento de SPA da area do médico e do paciente com React/Redux.
-Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify.  
-Criação da nova Landing Page em React com Gatsby (Static React com Server Rendering).  
-
-### CarPrev
-###### Designer & Frontend Developer – Janeiro 2015 - Julho 2015
-
-> A CarPrev foi uma startup focada em automação de preventiva veicular e controle de frotas.  
-> Ficou em primeiro lugar na maratona de negócios da campus party 2015, na categoria Economia Criativa.  
-
-Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e da [landing page.](https://web.archive.org/web/20160109211024/http://carprev.com.br/)  
+* Desenvolvimento da aplicação da área do médico e do paciente com React, Redux, PostCSS.
+* Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify e posteriormente a criação da nova Landing Page em React com Gatsby. 
 
 ### Plaay ME
 ###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
@@ -53,14 +43,15 @@ Trabalhei na parte de design e front do sistema de gerenciamento dos veículos e
 > O Plaay é uma startup de gênero musical que nasceu no início de 2013.  
 > Com o Plaay você consegue com apenas alguns cliques ouvir músicas, organizar as suas favoritas em playlists.
 
-Trabalhei criando sistemas em cakephp e o app desktop em js/html/css com node-webkit
+* Criação de sistemas internos diversos em CakePHP.
+* Criação da aplicação (player de música) em Backbone Marionette e Node Webkit para aplicação desktop.
 
 ### Nokitua
 ###### Backend & Frontend Developer – Setembro 2013 - Abril 2014
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
-Trabalhei criando sites em wordpress e sistemas em cakephp.  
+* Criação de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
 ### EMBI Marketing
 ###### Web designer aprendiz – Maio 2011 - Janeiro 2012
@@ -68,47 +59,46 @@ Trabalhei criando sites em wordpress e sistemas em cakephp.
 > A EMBI Marketing é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
 
-Trabalhei na criação de emails marketing, técnicas anti-spam e cross-browser/platform.  
-Criação de sites em wordpress, aplicando regras de SEO.  
+* Criação de email marketing com técnicas anti-spam e cross-browser/platform.  
+* Criação de sites em wordpress, com grande foco em SEO.
 
 ## Formação Autodidata
-Estou todos os dias estudando e aprendendo coisas novas por contra própria e pelas empresas por onde passo.  
+Estou todos os dias estudando e aprendendo técnologias novas por contra própria e pelas empresas por onde passo.  
 
 ## Habilidades  
 Possuo muitas habilidades que desenvolvi durante estes anos de experiência no mercado profissional.  
-Hoje, porém, meu foco é em **SPA com React**.
+Hoje, porém, meu foco é em **React** e **GraphQL**.
 
 Segue um resumo dos meus principais conhecimentos desenvolvidos:  
 
-* JavaScript/ES6+, Flow, NodeJS
+* Yarn/Npm, Git
+* JavaScript/ES6+, Flow
+* TypeScript, Flow
 * HTML, CSS
-* Yarn/Npm, Bower, Git
-* PostCSS, Stylus, Sass
-* Webpack, Babel
 * React/Redux/RR4, jQuery, VueJS (básico)
+* PostCSS, Stylus, Sass,
+* Emotion, Styled Components, Glamorous
+* GraphQL, Apollo
+* Webpack, Babel
 * Lodash, Ramda, Recompose
 * Gulp
 * PHP, CakePHP2
 
-*Tentei separar de um jeito que tenha alguma ligação próxima umas com as outras, e não necessariamente que tenha funções iguais/paralelas. Ex.: Webpack e Babel não têm os mesmos objetivos, mas possuem uma ligação bem próxima.*
-
 Conhecimentos que aplico **hoje** no meu dia a dia:
 
-* Git, Node, Yarn/Npm, ES6+
-* React/Redux/RR4, Flow
+* Git, NodeJS, Yarn
+* ES6+, TypeScript
+* React/Redux/RR4
 * Webpack, Babel e Postcss
 * Ramda, Recompose
+* Glamorous, Emotion
+* GraphQL + Apollo
 
-Ecossistema React:
+## Open Source
 
-*Além de conhecimentos sólidos em React e sua api, lifecycle e conceitos, desenvolvi alguns aprendizados com sua turminha ao longo do desenvolvimento das aplicações com que trabalhei. São eles:*
-
-* Redux, Redux Actions, Redux Saga (básico)
-* React Router 4
-* Recompose
-* Reselect (básico)
-* Styled Components e Glamorous (básico)
-
+* [React PowerPlug](https://github.com/renatorib/react-powerplug)
+* [React Sizes](https://github.com/renatorib/react-sizes)
+* [React BPS](https://github.com/renatorib/react-bps)
 
 ## Idiomas
 
