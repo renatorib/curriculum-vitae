@@ -12,7 +12,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 ## Experiences
 
-* [OneMarket 2017](#onemarket) - atual
+* [OneMarket 2017](#onemarket) - current
 * [Dr.Vem! 2016](#drvem)
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
