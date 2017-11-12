@@ -83,7 +83,7 @@ Summary of my main skills:
 * JavaScript/ES6+, Flow
 * TypeScript, Flow
 * HTML, CSS
-* React/Redux/RR4, jQuery, VueJS (básico)
+* React/Redux/RR4, jQuery, VueJS (basic)
 * PostCSS, Stylus, Sass,
 * Emotion, Styled Components, Glamorous
 * GraphQL, Apollo
