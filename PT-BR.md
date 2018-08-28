@@ -5,10 +5,9 @@
 # Renato Ribeiro
 *Frontend Engineer, 22 anos.*  
 *São Paulo, Brasil.*
+<sup>http://rena.to - renatoribroman@gmail.com</sup>
 
 ---
-
-<sup>http://rena.to - renatoribroman@gmail.com</sup>
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
 
