@@ -18,7 +18,7 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
 ### OneMarket
-###### Frontend Engineer - Dezembro 2016 - Julho 2018
+###### Frontend Engineer | Dezembro 2016 — Julho 2018
 
 > [OneMarket](http://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
 > Também é a empresa por trás de clubes de assinaturas como [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br), [OrganicaBox](http://organicabox.com.br), [Clube Pic-Me](http://picme.onemarket.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
@@ -29,7 +29,7 @@ Projetos desenvolvidos:
 * Desenvolvimento aplicação [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
 
 ### Dr.Vem!
-###### Frontend Engineer - Março 2016 - Dezembro 2016
+###### Frontend Engineer | Março 2016 — Dezembro 2016
 
 > A Dr.Vem! foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
 > Plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
@@ -39,7 +39,7 @@ Projetos desenvolvidos:
 * Desenvolvimento da aplicação da área do médico e da aplicação do paciente com React, RR2, Redux, CSS Modules (PostCSS).
 
 ### Plaay ME
-###### Backend & Frontend Developer – Abril 2014 - Novembro 2014
+###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
 
 > O Plaay foi uma startup de gênero musical que nasceu no início de 2013.  
 
@@ -48,7 +48,7 @@ Projetos desenvolvidos:
 * Desenvolvimento da aplicação (player de música) em Backbone Marionette e Node Webkit (alternativa antiga ao que hoje é o Electron para aplicação desktop) 
 
 ### Nokitua
-###### Backend & Frontend Developer – Setembro 2013 - Abril 2014
+###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
@@ -56,7 +56,7 @@ Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
 ### EMBI Marketing
-###### Web designer aprendiz – Maio 2011 - Janeiro 2012
+###### Web designer aprendiz | Maio 2011 — Janeiro 2012
   
 > A EMBI Marketing (hoje [Agência EMBI](http://www.agenciaembi.com.br/)) é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
