@@ -75,7 +75,7 @@ Projects:
 ## Skills
 
 I have many skills that I have developed during these years of experience in the professional market.
-Today, though, my focus is on ** React ** and ** GraphQL **.
+Today, though, my focus is on **React** and **GraphQL**.
 
 Skills that I apply **today** in my day to day:
 
