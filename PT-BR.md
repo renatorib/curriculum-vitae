@@ -5,7 +5,6 @@
 # Renato Ribeiro
 *Frontend Engineer, 22 anos.*  
 *São Paulo, Brasil.*  
-
 <sup>http://rena.to - renatoribroman@gmail.com</sup>
 
 ---
