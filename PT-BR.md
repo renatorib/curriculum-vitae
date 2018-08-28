@@ -1,6 +1,6 @@
 [Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
 
-<img align="left" width="200" src="https://avatars2.githubusercontent.com/u/3277185" />
+<img align="left" width="100" src="https://avatars2.githubusercontent.com/u/3277185" />
 
 # Renato Ribeiro
 *Frontend Engineer, 22 anos.*  
