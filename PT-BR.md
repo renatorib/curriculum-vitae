@@ -103,8 +103,8 @@ Resumo dos meus principais conhecimentos:
 *(foram separados por alguma ordem lógica, não necessariamente tecnologias correspondentes)*
 
 ## Open Source
-Considero o Open Source muito importante por poder retribuir com a comunidade, tudo que eu já consumi dela.  
-Além, também, de considerar a melhor forma de se adiquirir conhecimento de forma autodidata (ex.: estudar código de outras pessoas e receber ajustes de terceiros nos próprios repos), além de praticar habilidades sociais e colaborativas (ex.: fazer e receber code review de pessoas que você nem conhece, além do diálogo envolvido).
+Considero o Open Source muito importante por poder retribuir com a comunidade tudo que eu já consumi dela.  
+Além, também, de considerar ser a melhor forma de se adiquirir conhecimento de forma autodidata (ex.: estudar código de outras pessoas e receber ajustes de terceiros nos próprios repos), além de praticar habilidades sociais e colaborativas (ex.: fazer e receber code review de pessoas que você nem conhece, além do diálogo envolvido).
 
 Sou criador e mantenedor:
 * [React PowerPlug](https://github.com/renatorib/react-powerplug)
