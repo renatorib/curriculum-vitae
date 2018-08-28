@@ -6,8 +6,10 @@
 *Frontend Engineer, 22 anos.*  
 *São Paulo, Brasil.*
 
-**Site pessoal:** http://rena.to  
-**Email:** renatoribroman@gmail.com  
+---
+
+**http://rena.to**
+**renatoribroman@gmail.com** 
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
 
