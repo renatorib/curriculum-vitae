@@ -1,8 +1,8 @@
-<sup>
+<sup><sup>
 
 [Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
 
-</sup>
+</sup></sup>
 
 <img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
 
