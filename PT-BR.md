@@ -1,7 +1,7 @@
 [Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
 
 # Renato Ribeiro
-*Frontend Engineer, 22 anos.*
+*Frontend Engineer, 22 anos.*  
 *São Paulo, Brasil.*
 
 **Site pessoal:** http://rena.to  
