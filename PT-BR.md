@@ -7,7 +7,7 @@
 <img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
 
 # Renato Ribeiro
-*Frontend Engineer, 22 anos.*  
+*Frontend Engineer, 23 anos.*  
 *São Paulo, Brasil.*  
 <sub>http://rena.to - renatoribroman@gmail.com</sub>
 
@@ -17,11 +17,17 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 
 ## Experiências
 
+* [Taller 2018-2019](#onemarket)
 * [OneMarket 2016-2018](#onemarket)
 * [Dr.Vem! 2016](#drvem)
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
+
+### Taller
+###### Full-stack Engineer | Novembro 2018 - _atual_
+
+> A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
 ### OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
