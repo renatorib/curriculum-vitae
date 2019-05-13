@@ -67,11 +67,11 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
-<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="left" />
-
 ### EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
-  
+
+<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="right" />
+
 > A EMBI Marketing (hoje [Agência EMBI](http://www.agenciaembi.com.br/)) é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
 
