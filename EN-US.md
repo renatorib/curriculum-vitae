@@ -18,11 +18,17 @@ Since very young involved with computing, I started playing alone with programmi
 
 ## Experiences
 
+* [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
 * [Dr.Vem! 2016](#drvem)
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
+
+### Taller
+###### Full-stack Engineer | November 2018 - _current_
+
+> [Taller](http://taller.net.br) is a team that develops quality software for technological inovations of high complexity.
 
 ### OneMarket
 ###### Frontend Engineer | December 2016 — July 2018
