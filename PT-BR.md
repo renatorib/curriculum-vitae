@@ -67,6 +67,8 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
+<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="left" />
+
 ### EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
   
