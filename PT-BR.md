@@ -24,17 +24,17 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="right" />
+
 ### Taller
 ###### Full-stack Engineer | Novembro 2018 - _atual_
 
-<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="right" />
-
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
+
+<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="right" />
 
 ### OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
-
-<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="right" />
 
 > [OneMarket](http://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
 > Também é a empresa por trás de clubes de assinaturas como [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br), [OrganicaBox](http://organicabox.com.br), [Clube Pic-Me](http://picme.onemarket.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
