@@ -13,7 +13,7 @@
 
 ---
 
-Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias, e Node.
+Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias, GraphQL e Node.
 
 # Experiências
 
@@ -44,10 +44,10 @@ Projetos desenvolvidos:
 * Desenvolvimento do site institucional da com React, RR4.  
 * Desenvolvimento aplicação [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
 
+<img src="https://user-images.githubusercontent.com/3277185/57594758-02e90000-7518-11e9-992c-ebf181a90db8.png" align="left" />
+
 ## Dr.Vem!
 ###### Frontend Engineer | Março 2016 — Dezembro 2016
-
-<img src="https://user-images.githubusercontent.com/3277185/57594758-02e90000-7518-11e9-992c-ebf181a90db8.png" align="right" />
 
 > A Dr.Vem! foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
 > Plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
@@ -56,10 +56,10 @@ Projetos desenvolvidos:
 * Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify e posteriormente a criação da nova Landing Page em React com Gatsby. 
 * Desenvolvimento da aplicação da área do médico e da aplicação do paciente com React, RR2, Redux, CSS Modules (PostCSS).
 
+<img src="https://user-images.githubusercontent.com/3277185/57594756-01b7d300-7518-11e9-8d38-c8450e8dbd47.png" align="left" />
+
 ## Plaay ME
 ###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
-
-<img src="https://user-images.githubusercontent.com/3277185/57594756-01b7d300-7518-11e9-8d38-c8450e8dbd47.png" align="right" />
 
 > O Plaay foi uma startup de gênero musical que nasceu no início de 2013.  
 
@@ -67,20 +67,20 @@ Projetos desenvolvidos:
 * Desenvolvimento de diversos sistemas internos (CRUDs / dashboards) em CakePHP.
 * Desenvolvimento da aplicação (player de música) em Backbone Marionette e Node Webkit (alternativa antiga ao que hoje é o Electron para aplicação desktop) 
 
+<img src="https://user-images.githubusercontent.com/3277185/57594753-ffee0f80-7517-11e9-80e3-51a2bd2bcd96.png" align="left" />
+
 ## Nokitua
 ###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
-
-<img src="https://user-images.githubusercontent.com/3277185/57594753-ffee0f80-7517-11e9-80e3-51a2bd2bcd96.png" align="right" />
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
 Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
+<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="left" />
+
 ## EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
-
-<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="right" />
 
 > A EMBI Marketing (hoje [Agência EMBI](http://www.agenciaembi.com.br/)) é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
