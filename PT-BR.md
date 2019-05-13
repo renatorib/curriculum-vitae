@@ -24,14 +24,14 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
-<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
 ## Taller
 ###### Full-stack Engineer | Novembro 2018 - _atual_
 
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
-<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ## OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
@@ -44,7 +44,7 @@ Projetos desenvolvidos:
 * Desenvolvimento do site institucional da com React, RR4.  
 * Desenvolvimento aplicação [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
 
-<img src="https://user-images.githubusercontent.com/3277185/57594758-02e90000-7518-11e9-992c-ebf181a90db8.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
 
 ## Dr.Vem!
 ###### Frontend Engineer | Março 2016 — Dezembro 2016
@@ -56,7 +56,7 @@ Projetos desenvolvidos:
 * Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify e posteriormente a criação da nova Landing Page em React com Gatsby. 
 * Desenvolvimento da aplicação da área do médico e da aplicação do paciente com React, RR2, Redux, CSS Modules (PostCSS).
 
-<img src="https://user-images.githubusercontent.com/3277185/57594756-01b7d300-7518-11e9-8d38-c8450e8dbd47.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
 ## Plaay ME
 ###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
@@ -67,7 +67,7 @@ Projetos desenvolvidos:
 * Desenvolvimento de diversos sistemas internos (CRUDs / dashboards) em CakePHP.
 * Desenvolvimento da aplicação (player de música) em Backbone Marionette e Node Webkit (alternativa antiga ao que hoje é o Electron para aplicação desktop) 
 
-<img src="https://user-images.githubusercontent.com/3277185/57594753-ffee0f80-7517-11e9-80e3-51a2bd2bcd96.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
 ## Nokitua
 ###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
@@ -77,7 +77,7 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
-<img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 ## EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
