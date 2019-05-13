@@ -15,7 +15,7 @@
 
 Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
 
-## Experiências
+# Experiências
 
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
@@ -26,14 +26,14 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 
 <img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="right" />
 
-### Taller
+## Taller
 ###### Full-stack Engineer | Novembro 2018 - _atual_
 
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
 <img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="right" />
 
-### OneMarket
+## OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
 
 > [OneMarket](http://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
