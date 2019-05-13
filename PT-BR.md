@@ -27,10 +27,14 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 ### Taller
 ###### Full-stack Engineer | Novembro 2018 - _atual_
 
+<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="right" />
+
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
 ### OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
+
+<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="right" />
 
 > [OneMarket](http://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
 > Também é a empresa por trás de clubes de assinaturas como [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br), [OrganicaBox](http://organicabox.com.br), [Clube Pic-Me](http://picme.onemarket.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
@@ -43,6 +47,8 @@ Projetos desenvolvidos:
 ### Dr.Vem!
 ###### Frontend Engineer | Março 2016 — Dezembro 2016
 
+<img src="https://user-images.githubusercontent.com/3277185/57594758-02e90000-7518-11e9-992c-ebf181a90db8.png" align="right" />
+
 > A Dr.Vem! foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
 > Plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
@@ -53,6 +59,8 @@ Projetos desenvolvidos:
 ### Plaay ME
 ###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
 
+<img src="https://user-images.githubusercontent.com/3277185/57594756-01b7d300-7518-11e9-8d38-c8450e8dbd47.png" align="right" />
+
 > O Plaay foi uma startup de gênero musical que nasceu no início de 2013.  
 
 Projetos desenvolvidos:
@@ -61,6 +69,8 @@ Projetos desenvolvidos:
 
 ### Nokitua
 ###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
+
+<img src="https://user-images.githubusercontent.com/3277185/57594753-ffee0f80-7517-11e9-80e3-51a2bd2bcd96.png" align="right" />
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
