@@ -13,7 +13,7 @@
 
 ---
 
-Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
+Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias, e Node.
 
 # Experiências
 
@@ -44,7 +44,7 @@ Projetos desenvolvidos:
 * Desenvolvimento do site institucional da com React, RR4.  
 * Desenvolvimento aplicação [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
 
-### Dr.Vem!
+## Dr.Vem!
 ###### Frontend Engineer | Março 2016 — Dezembro 2016
 
 <img src="https://user-images.githubusercontent.com/3277185/57594758-02e90000-7518-11e9-992c-ebf181a90db8.png" align="right" />
@@ -56,7 +56,7 @@ Projetos desenvolvidos:
 * Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify e posteriormente a criação da nova Landing Page em React com Gatsby. 
 * Desenvolvimento da aplicação da área do médico e da aplicação do paciente com React, RR2, Redux, CSS Modules (PostCSS).
 
-### Plaay ME
+## Plaay ME
 ###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
 
 <img src="https://user-images.githubusercontent.com/3277185/57594756-01b7d300-7518-11e9-8d38-c8450e8dbd47.png" align="right" />
@@ -67,7 +67,7 @@ Projetos desenvolvidos:
 * Desenvolvimento de diversos sistemas internos (CRUDs / dashboards) em CakePHP.
 * Desenvolvimento da aplicação (player de música) em Backbone Marionette e Node Webkit (alternativa antiga ao que hoje é o Electron para aplicação desktop) 
 
-### Nokitua
+## Nokitua
 ###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
 
 <img src="https://user-images.githubusercontent.com/3277185/57594753-ffee0f80-7517-11e9-80e3-51a2bd2bcd96.png" align="right" />
@@ -77,7 +77,7 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.  
 
-### EMBI Marketing
+## EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
 
 <img src="https://user-images.githubusercontent.com/3277185/57594752-ff557900-7517-11e9-8710-bee0b7f7583f.png" align="right" />
@@ -89,19 +89,21 @@ Projetos desenvolvidos:
 * Criação de email marketing com técnicas anti-spam e cross-browser/platform.  
 * Criação de sites em wordpress, com grande foco em SEO.
 
-## Tecnologias  
+# Tecnologias  
 Possuo conhecimento em algumas tecnologias com que trabalhei durante estes anos de experiência.    
 Hoje, porém, meu foco é em **React** e **GraphQL**.
 
-Tecnologias que uso **atualmente** no meu dia a dia:
+Tecnologias engajadas **atualmente**:
 
-* Git, NodeJS, Yarn
+* Git, Node.js, Yarn
 * ES6+, TypeScript
-* React/RR4
-* Webpack, Babel e Postcss
-* Ramda
-* Glamorous, Emotion
+* React, Next.js
+* Webpack, Babel
+* Ramda, Recompose
+* Styled Components
 * GraphQL + Apollo
+* Serverless (AWS Lambda)
+* PHP, Drupal 8
 
 Resumo dos meus principais conhecimentos:  
 
@@ -116,11 +118,11 @@ Resumo dos meus principais conhecimentos:
 * Webpack, Babel
 * Lodash, Ramda, Recompose, Immer
 * Gulp
-* PHP, CakePHP2
+* PHP, CakePHP2, Drupal 8
 
 *(foram separados por alguma ordem lógica, não necessariamente tecnologias correspondentes)*
 
-## Open Source
+# Open Source
 Considero o Open Source muito importante por poder retribuir com a comunidade tudo que eu já consumi dela.  
 Além, também, de considerar ser a melhor forma de se adiquirir conhecimento de forma autodidata (ex.: estudar código de outras pessoas e receber ajustes de terceiros nos próprios repos), além de praticar habilidades sociais e colaborativas (ex.: fazer e receber code review de pessoas que você nem conhece, além do diálogo envolvido).
 
@@ -136,12 +138,12 @@ Sou mantenedor e/ou colaborador:
 Sou/fui contribuidor em algum momento:
 * [Emotion](https://github.com/emotion-js/emotion) - [(i)](https://github.com/emotion-js/emotion/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Arenatorib+)
 
-## Idiomas
+# Idiomas
 
 * **Português:** Nativo  
 * **Inglês:** Intermediário *(good read/write, bad speak/listen)* 
 
-## Links
+# Links
 
 * **Github:** http://github.com/renatorib
 * **Twitter:** http://twitter.com/renatorib_ 
