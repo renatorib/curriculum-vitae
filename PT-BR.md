@@ -24,14 +24,14 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
-<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="right" />
+<img src="https://user-images.githubusercontent.com/3277185/57594762-054b5a00-7518-11e9-96a3-9df7a6f9d1a1.png" align="left" />
 
 ## Taller
 ###### Full-stack Engineer | Novembro 2018 - _atual_
 
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
-<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="right" />
+<img src="https://user-images.githubusercontent.com/3277185/57594759-041a2d00-7518-11e9-9a6b-0a694872ebc2.png" align="left" />
 
 ## OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
