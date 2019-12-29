@@ -75,10 +75,10 @@ Projects:
 
 > Nokitua helps companies of all sizes create interactive experiences and solve complex problems.
 
-<img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
-
 Projects:  
 * Creation of sites in wordpress and systems in CakePHP for various clients.
+
+<img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 ## EMBI Marketing
 ###### Web designer apprentice | May 2011 — January 2012
