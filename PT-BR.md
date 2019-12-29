@@ -7,7 +7,7 @@
 <img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
 
 # Renato Ribeiro
-*Frontend Engineer, 23 anos.*  
+*Frontend Engineer, 24 anos.*  
 *São Paulo, Brasil.*  
 <sub>http://rena.to - renatoribroman@gmail.com</sub>
 
