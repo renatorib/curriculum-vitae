@@ -25,10 +25,14 @@ Since very young involved with computing, I started playing alone with programmi
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+<img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
+
 ### Taller
 ###### Full-stack Engineer | November 2018 - _current_
 
 > [Taller](http://taller.net.br) is a team that develops quality software for technological inovations of high complexity.
+
+<img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ### OneMarket
 ###### Frontend Engineer | December 2016 — July 2018
@@ -41,6 +45,8 @@ Projects:
 * Development of institutional site [OneMarket](https://onemarket.com.br) with React, RR4.
 * Development of new ecommerce website with React, RR4, GraphQL/Apollo, Glamorous, with TypeScript.
 
+<img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
+
 ### Dr.Vem!
 ###### Frontend Engineer | March 2016 — December 2016
 
@@ -51,6 +57,8 @@ Projects:
 * Development of the doctor/patient application with React, Redux, PostCSS.
 * Maintenance of the legacy Landing Page with Gulp, Handlebars, and Browserify and later, creation of the new Landing Page on React with Gatsby.
 
+<img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
+
 ### Plaay ME
 ###### Backend & Frontend Developer | April 2014 — November 2014
 
@@ -60,10 +68,14 @@ Projects:
 * Creation of internal systems with CakePHP.
 * Creation of the application (music player) in Backbone Marionette and Node Webkit for desktop application.
 
+<img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
+
 ### Nokitua
 ###### Backend & Frontend Developer | September 2013 — April 2014
 
 > Nokitua helps companies of all sizes create interactive experiences and solve complex problems.
+
+<img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 Projects:  
 * Creation of sites in wordpress and systems in CakePHP for various clients.
