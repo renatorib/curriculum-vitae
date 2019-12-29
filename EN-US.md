@@ -16,7 +16,7 @@
 Born and raised in São Paulo, Brazil.  
 Since very young involved with computing, I started playing alone with programming when was twelve with incentive of my creative and curious mind. Currently engaged with the React community and its technologies.
 
-## Experiences
+# Experiences
 
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
@@ -27,14 +27,14 @@ Since very young involved with computing, I started playing alone with programmi
 
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
-### Taller
+## Taller
 ###### Full-stack Engineer | November 2018 - _current_
 
 > [Taller](http://taller.net.br) is a team that develops quality software for technological inovations of high complexity.
 
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
-### OneMarket
+## OneMarket
 ###### Frontend Engineer | December 2016 — July 2018
 
 > OneMarket is a company focused in healthy food. Has behind signature clubs in brazil that are focused in healthy eating.  
@@ -47,7 +47,7 @@ Projects:
 
 <img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
 
-### Dr.Vem!
+## Dr.Vem!
 ###### Frontend Engineer | March 2016 — December 2016
 
 > Dr.Vem! was a health startup, focused on home care.  
@@ -59,7 +59,7 @@ Projects:
 
 <img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
-### Plaay ME
+## Plaay ME
 ###### Backend & Frontend Developer | April 2014 — November 2014
 
 > Plaay was a musical genre startup that was born in early 2013.
@@ -70,7 +70,7 @@ Projects:
 
 <img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
-### Nokitua
+## Nokitua
 ###### Backend & Frontend Developer | September 2013 — April 2014
 
 > Nokitua helps companies of all sizes create interactive experiences and solve complex problems.
@@ -80,7 +80,7 @@ Projects:
 Projects:  
 * Creation of sites in wordpress and systems in CakePHP for various clients.
 
-### EMBI Marketing
+## EMBI Marketing
 ###### Web designer apprentice | May 2011 — January 2012
 
 > EMBI Marketing is a company specialized in Planning and Strategies for Website Optimization (SEO),
@@ -90,7 +90,7 @@ Projects:
 * Creation of email marketing with anti-spam and cross-browser/platform techniques.
 * Creation of sites in wordpress, with great focus on SEO.
  
-## Skills
+# Skills
 
 I have many skills that I have developed during these years of experience in the professional market.
 Today, though, my focus is on **React** and **GraphQL**.
@@ -122,7 +122,7 @@ Summary of my main skills:
 
 *(separated by some similar logical order, not necessarily corresponding technologies)*
 
-## Open Source
+# Open Source
 I consider Open Source very important because I can give back to the community everything I already consume from it.  
 In addition, I consider it the best way to acquire knowledge in a self-taught way (e.g. studying other people's code and receiving third-party adjustments in repos), as well as practicing social and collaborative skills (e.g. receive code review from people you do not even know, plus the dialogue involved).
 
@@ -143,7 +143,7 @@ I am/was contributor:
 * **Portuguese:** Native
 * **English:** Intermediary *(good read/write, bad speak/listen)*
 
-## Links
+# Links
 
 * **Twitter:** [http://twitter.com/renatorib_](http://twitter.com/renatorib_)
 * **E-mail:** renatoribroman@gmail.com  
