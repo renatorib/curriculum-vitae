@@ -25,6 +25,8 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+#[space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
 ## Real Advisor
@@ -36,6 +38,8 @@ Projetos desenvolvidos:
 * Participação no desenvolvimento e manutenção do sistema de CRM usado internamente e por outras corretoras (multi-tenancy) - React, Flow, GraphQL, Relay
 * Participação no desenvolvimento e manutenção da [aplicação](https://realadvisor.ch/en) para o usuário final - React, Flow, GraphQL,
 * Participação no desenvolvimento e manutenção do backend/graphql (API interna) que da poderes às outras aplicações - Node, GraphQL, Postgres, Knex.js
+
+#[space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
