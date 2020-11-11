@@ -28,7 +28,7 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 <img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
 ## Real Advisor
-###### Full-stack Engineer; Genebra, Suíça (Remoto); January 2020 — May 2020
+###### Full-stack Engineer; Genebra, Suíça (Remoto); Janeiro 2020 — Maio 2020
 
 > A [Real Advisor](https://realadvisor.com) é uma imobiliária online baseada na Suíça, que hoje está expandindo para outros países da europa.  
 
