@@ -26,6 +26,8 @@ Since very young involved with computing, I started playing alone with programmi
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
 ## Real Advisor
@@ -37,6 +39,8 @@ Projects:
 * Part. in development of internal CRM - React, Flow, GraphQL, Relay
 * Part. in development of [end-user application](https://realadvisor.ch/en) - React, Flow, GraphQL,
 * Part. in development of internal graphql API that runs other applications - Node, GraphQL, Postgres, Knex.js
+
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
@@ -53,6 +57,8 @@ Projects:
 * Development of internal slack bots that help in some daily proccess - Node.js, [slaq](https://github.com/renatorib/slaq)
 * Part. in development of other small projects
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ## OneMarket
@@ -66,6 +72,8 @@ Projects:
 * Development of institutional site [OneMarket](https://onemarket.com.br) with React, RR4.
 * Part. in development of new ecommerce application with React, RR4, GraphQL/Apollo, Glamorous, with TypeScript.
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
 
 ## Dr.Vem!
@@ -78,6 +86,8 @@ Projects:
 * Development of the doctor/patient application with React, Redux, PostCSS.
 * Maintenance of the legacy Landing Page with Gulp, Handlebars, and Browserify and later, creation of the new Landing Page on React with Gatsby.
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
 ## Plaay ME
@@ -88,6 +98,8 @@ Projects:
 Projects:  
 * Development of internal systems and applications in CakePHP
 * Development of the end-user application (music player) in Backbone Marionette and Node Webkit for desktop application.
+
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
@@ -100,6 +112,8 @@ Projects:
 * Development of websites in WordPress
 * Development of applications in CakePHP 
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 ## EMBI Marketing
@@ -111,6 +125,8 @@ Projects:
 Projects:  
 * Development of email marketing with anti-spam and cross-browser/platform techniques.
 * Development of sites in wordpress, with great focus on SEO.
+
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
 
 # Published articles
 
