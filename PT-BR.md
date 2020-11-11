@@ -98,6 +98,8 @@ Projetos desenvolvidos:
 * Desenvolvimento de diversos sistemas internos (CRUDs / dashboards) em CakePHP.
 * Desenvolvimento da aplicação (player de música) em Backbone Marionette e Node Webkit (alternativa antiga ao que hoje é o Electron para aplicação desktop) 
 
+![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+
 <img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
 ## Nokitua
