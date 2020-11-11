@@ -25,11 +25,10 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
-<img src="https://user-images.githubusercontent.com/3277185/98838149-a0313700-2422-11eb-9771-20343a320d91.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
 ## Real Advisor
-###### Full-stack Engineer | January 2020 - May 2020
-###### Genebra, Suíça | Remoto
+###### Full-stack Engineer; Genebra, Suíça (Remoto); January 2020 — May 2020
 
 > A [Real Advisor](https://realadvisor.com) é uma imobiliária online baseada na Suíça, que hoje está expandindo para outros países da europa.  
 
@@ -41,8 +40,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
 ## Taller
-###### Full-stack Engineer | Novembro 2018 - Dezembro 2019
-###### Florianópolis, SC | Remoto
+###### Full-stack Engineer; Florianópolis, SC (Remoto); Novembro 2018 — Dezembro 2019
 
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
 
@@ -57,8 +55,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ## OneMarket
-###### Frontend Engineer | Dezembro 2016 — Julho 2018
-###### São Paulo, SP
+###### Frontend Engineer; São Paulo, SP; Dezembro 2016 — Julho 2018
 
 > A [OneMarket](https://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
 > Também é a empresa por trás de clubes de assinaturas como [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br), [OrganicaBox](http://organicabox.com.br), [Clube Pic-Me](http://picme.onemarket.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
@@ -71,8 +68,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
 
 ## Dr.Vem!
-###### Frontend Engineer | Março 2016 — Dezembro 2016
-###### São Paulo, SP | Remoto
+###### Frontend Engineer; São Paulo, SP (Remoto); Março 2016 — Dezembro 2016
 
 > A [Dr.Vem!](https://drvem.com.br) foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
 > Plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
@@ -84,8 +80,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
 ## Plaay ME
-###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
-###### São Paulo, SP
+###### Backend & Frontend Developer; São Paulo, SP; Abril 2014 — Novembro 2014
 
 > O Plaay foi uma startup de gênero musical que nasceu no início de 2013.  
 
@@ -96,8 +91,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
 ## Nokitua
-###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
-###### São Paulo, SP
+###### Backend & Frontend Developer; São Paulo, SP; Setembro 2013 — Abril 2014
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
@@ -107,8 +101,7 @@ Projetos desenvolvidos:
 <img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 ## EMBI Marketing
-###### Web designer aprendiz | Maio 2011 — Janeiro 2012
-###### São Paulo, SP
+###### Web designer aprendiz; São Paulo, SP; Maio 2011 — Janeiro 2012
 
 > A EMBI Marketing (hoje [Agência EMBI](http://www.agenciaembi.com.br/)) é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
