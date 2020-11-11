@@ -26,11 +26,10 @@ Since very young involved with computing, I started playing alone with programmi
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
-<img src="https://user-images.githubusercontent.com/3277185/98838149-a0313700-2422-11eb-9771-20343a320d91.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
 ## Real Advisor
-###### Full-stack Engineer | January 2020 - May 2020
-###### _Geneva, Switzerland | Remote_
+###### Full-stack Engineer; Genova, Switzerland (Remote); January 2020 — May 2020
 
 > [Real Advisor](https://realadvisor.com) is a Switzerland-based online Real Estate that is expanding to new europe countries.  
 
@@ -42,8 +41,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
 ## Taller
-###### Full-stack Engineer | November 2018 - December 2019
-###### _Florianópolis, Brazil | Remote_
+###### Full-stack Engineer; Florianópolis, Brazil (Remote); November 2018 — December 2019
 
 > [Taller](https://taller.net.br) is a team that develops quality software for technological inovations of high complexity.
 
@@ -58,8 +56,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ## OneMarket
-###### Frontend Engineer | December 2016 — July 2018
-###### _São Paulo, Brazil_
+###### Frontend Engineer; São Paulo, Brazil; December 2016 — July 2018
 
 > OneMarket is a company focused in healthy food. Has behind signature clubs in brazil that are focused in healthy eating.  
 > Today live with [GlutenFreeBox](https://glutenfreebox.com.br), [LacFreeBox](https://lacfreebox.com.br), [SugarFreeBox](https://sugarfreebox.com.br), [VeganaBox](https://veganabox.com.br), [OneBox](https://onebox.com.br) and [Clube Pic-Me](http://picme.onemarket.com.br).
@@ -72,8 +69,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
 
 ## Dr.Vem!
-###### Frontend Engineer | March 2016 — December 2016
-###### _São Paulo, Brazil | Remote_
+###### Frontend Engineer; São Paulo, Brazil (Remote); March 2016 — December 2016
 
 > Dr.Vem! was a health startup, focused on home care.  
 > Platform that connects clinics and autonomous doctors to patients who seek care in their home, and thus avoid the stress and risks of a hospital environment.
@@ -85,8 +81,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
 ## Plaay ME
-###### Backend & Frontend Developer | April 2014 — November 2014
-###### _São Paulo, Brazil_
+###### Backend & Frontend Developer; São Paulo, Brazil; April 2014 — November 2014
 
 > Plaay was a musical genre startup that was born in early 2013.
 
@@ -97,8 +92,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
 
 ## Nokitua
-###### Backend & Frontend Developer | September 2013 — April 2014
-###### _São Paulo, Brazil_
+###### Backend & Frontend Developer; São Paulo, Brazil; September 2013 — April 2014
 
 > Nokitua helps companies of all sizes create interactive experiences and solve complex problems.
 
@@ -109,8 +103,7 @@ Projects:
 <img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" align="left" />
 
 ## EMBI Marketing
-###### Web designer apprentice | May 2011 — January 2012
-###### _São Paulo, Brazil_
+###### Web designer apprentice; São Paulo, Brazil; May 2011 — January 2012
 
 > EMBI Marketing is a company specialized in Planning and Strategies for Website Optimization (SEO),
 > Sponsored Links, Email Marketing, Social Media and Graphic Solutions, Web, Desktop and Mobile.
