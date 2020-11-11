@@ -9,7 +9,7 @@
 # Renato Ribeiro
 *Frontend Engineer, 24 anos.*  
 *São Paulo, Brasil.*  
-<sub>http://rena.to - renatoribroman@gmail.com</sub>
+<sub>http://rena.to - ola@rena.to</sub>
 
 ---
 
@@ -17,6 +17,7 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 
 # Experiências
 
+* [Real Advisor 2020](#real-advisor)
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
 * [Dr.Vem! 2016](#drvem)
@@ -24,19 +25,42 @@ Nasci e cresci em São Paulo, Capital. Desde muito novo envolvido com computaç�
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+<img src="https://user-images.githubusercontent.com/3277185/98838149-a0313700-2422-11eb-9771-20343a320d91.png" align="left" />
+
+## Real Advisor
+###### Full-stack Engineer | January 2020 - May 2020
+###### Genebra, Suíça | Remoto
+
+> A [Real Advisor](https://realadvisor.com) é uma imobiliária online baseada na Suíça, que hoje está expandindo para outros países da europa.  
+
+Projetos desenvolvidos:
+* Participação no desenvolvimento e manutenção do sistema de CRM usado internamente e por outras corretoras (multi-tenancy) - React, Flow, GraphQL, Relay
+* Participação no desenvolvimento e manutenção da [aplicação](https://realadvisor.ch/en) para o usuário final - React, Flow, GraphQL,
+* Participação no desenvolvimento e manutenção do backend/graphql (API interna) que da poderes às outras aplicações - Node, GraphQL, Postgres, Knex.js
+
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
 ## Taller
-###### Full-stack Engineer | Novembro 2018 - _atual_
+###### Full-stack Engineer | Novembro 2018 - Dezembro 2019
+###### Florianópolis, SC | Remoto
 
 > A [Taller](http://taller.net.br) é um time que desenvolve software de qualidade para inovações tecnológicas de alta complexidade.
+
+Projetos desenvolvidos:
+* Manutenção no site da [Natura](https://natura.com.br/) - Drupal, GraphQL, Next.js
+* Participação no desenvolvimento e manutenção do site da [NSCTotal](https://nsctotal.com.br) - Drupal, GraphQL, Next.js
+* Participação no desenvolvimento do sistema de paywall da NSCTotal - Drupal, Node.js, Redis, Serverless
+* Participação no desenvolvimento do site da [Pactera Edge](https://www.pacteraedge.com/) - Drupal, GraphQL, Next.js
+* Desenvolvimento de slack bots internamente para facilitar o dia a dia em alguns processos - Node.js, [slaq](https://github.com/renatorib/slaq)
+* Participação no desenvolvimento de diversos outros projetos menores
 
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
 ## OneMarket
 ###### Frontend Engineer | Dezembro 2016 — Julho 2018
+###### São Paulo, SP
 
-> [OneMarket](http://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
+> A [OneMarket](https://onemarket.com.br) é uma empresa focada em alimentação _inclusiva_. Possui um e-commerce no modelo clube de compras, com produtos variados e focados em restrições alimentares (sem glúten, sem lactose, sem açúcar, etc.).
 > Também é a empresa por trás de clubes de assinaturas como [GlutenFreeBox](http://glutenfreebox.com.br), [LacFreeBox](http://lacfreebox.com.br), [SugarFreeBox](http://sugarfreebox.com.br), [VeganaBox](http://veganabox.com.br), [OrganicaBox](http://organicabox.com.br), [Clube Pic-Me](http://picme.onemarket.com.br) e caminhando para o nascimento de novos clubes, além de novos modelos.
 
 Projetos desenvolvidos:
@@ -48,8 +72,9 @@ Projetos desenvolvidos:
 
 ## Dr.Vem!
 ###### Frontend Engineer | Março 2016 — Dezembro 2016
+###### São Paulo, SP | Remoto
 
-> A Dr.Vem! foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
+> A [Dr.Vem!](https://drvem.com.br) foi uma startup de saúde (spin-off da [M2G](http://www.m2g.com.br/)), focada no atendimento domiciliar.  
 > Plataforma que conecta clínicas e médicos autônomos à pacientes que buscam atendimento em sua residência, e assim evitar o estresse e riscos de ambiente hospitalar.   
 
 Projetos desenvolvidos:
@@ -60,6 +85,7 @@ Projetos desenvolvidos:
 
 ## Plaay ME
 ###### Backend & Frontend Developer | Abril 2014 — Novembro 2014
+###### São Paulo, SP
 
 > O Plaay foi uma startup de gênero musical que nasceu no início de 2013.  
 
@@ -71,6 +97,7 @@ Projetos desenvolvidos:
 
 ## Nokitua
 ###### Backend & Frontend Developer | Setembro 2013 — Abril 2014
+###### São Paulo, SP
   
 > A nokitua ajuda empresas de todos os tamanhos a criar experiências interativas e resolver problemas complexos.  
 
@@ -81,6 +108,7 @@ Projetos desenvolvidos:
 
 ## EMBI Marketing
 ###### Web designer aprendiz | Maio 2011 — Janeiro 2012
+###### São Paulo, SP
 
 > A EMBI Marketing (hoje [Agência EMBI](http://www.agenciaembi.com.br/)) é uma empresa especializada em Planejamento e Estratégias para Otimização de Sites (SEO),  
 > Links Patrocinados, Email Marketing, Mídias Sociais e Soluções Gráficas, Web, Desktop e Mobile.  
@@ -88,6 +116,11 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Criação de email marketing com técnicas anti-spam e cross-browser/platform.  
 * Criação de sites em wordpress, com grande foco em SEO.
+
+# Artigos publicados
+
+## [Desmistificando interpretadores](https://rena.to/blog/demystifying-interpreters)
+> Uma introdução amigável sobre interpretadores sob uma abordagem prática.
 
 # Tecnologias  
 Possuo conhecimento em algumas tecnologias com que trabalhei durante estes anos de experiência.    
@@ -131,12 +164,10 @@ Sou criador e mantenedor:
 * [React Sizes](https://github.com/renatorib/react-sizes)
 * [React BPS](https://github.com/renatorib/react-bps)
 
-Sou mantenedor e/ou colaborador:
+Sou/fui contribuidor em algum momento:
 * [Docz](https://github.com/pedronauck/docz)
 * [Reakit](https://github.com/reakit/reakit)
-
-Sou/fui contribuidor em algum momento:
-* [Emotion](https://github.com/emotion-js/emotion) - [(i)](https://github.com/emotion-js/emotion/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Arenatorib+)
+* [Emotion](https://github.com/emotion-js/emotion)
 
 # Idiomas
 
