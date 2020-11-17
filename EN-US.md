@@ -170,8 +170,8 @@ I consider Open Source very important because I can give back to the community e
 In addition, I consider it the best way to acquire knowledge in a self-taught way (e.g. studying other people's code and receiving third-party adjustments in repos), as well as practicing social and collaborative skills (e.g. receive code review from people you do not even know, plus the dialogue involved).
 
 I'm creator and maintainer:
-* [React PowerPlug](https://github.com/renatorib/react-powerplug)
-* [React Sizes](https://github.com/renatorib/react-sizes)
+* [React PowerPlug](https://github.com/renatorib/react-powerplug) - 1.4 million downloads
+* [React Sizes](https://github.com/renatorib/react-sizes) - 1.3 million downloads
 * [React BPS](https://github.com/renatorib/react-bps)
 * [slaq](https://github.com/renatorib/slaq)
 
