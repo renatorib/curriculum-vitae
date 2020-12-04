@@ -7,7 +7,7 @@
 <img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
 
 # Renato Ribeiro
-*Frontend Engineer, 24.*  
+*Software Engineer, 24.*  
 *São Paulo, Brazil.*  
 <sub>http://rena.to - hi@rena.to</sub>
 
