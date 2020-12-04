@@ -130,40 +130,16 @@ Projects:
 
 # Published articles
 
-## [Demystifying interpreters](https://rena.to/blog/demystifying-interpreters)
-> A friendly introduction on what's and how's about interpreters in a practical approach.
+- **[Demystifying interpreters](https://rena.to/blog/demystifying-interpreters)** - A friendly introduction on what's and how's
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
  
 # Skills
 
 I have many skills that I have developed during these years of experience in the professional market.
-Today, though, my focus is on **React** and **GraphQL**.
+Today, though, my focus is on JS ecossystem: **React**, **Next.js**, **GraphQL**, **TypeScript** and **Node**.
 
-Skills that I apply **today** in my day to day:
-
-* Git, NodeJS, Yarn
-* ES6+, TypeScript
-* React/Redux/RR4
-* Webpack, Babel e Postcss
-* Ramda, Recompose
-* Glamorous, Emotion
-* GraphQL + Apollo
-
-Summary of my main skills:
-
-* Yarn/Npm, Git
-* JavaScript/ES6+, Flow
-* TypeScript, Flow
-* HTML, CSS
-* React/Redux/RR4, jQuery
-* PostCSS, Stylus, Sass,
-* Emotion, Styled Components, Glamorous
-* GraphQL, Apollo (client)
-* Webpack, Babel
-* Lodash, Ramda, Recompose
-* Gulp
-* PHP, CakePHP2
-
-*(separated by some similar logical order, not necessarily corresponding technologies)*
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Open Source
 I consider Open Source very important because I can give back to the community everything I already consume from it.  
@@ -179,6 +155,8 @@ I am/was contributor:
 * [Docz](https://github.com/pedronauck/docz)
 * [Reakit](https://github.com/reakit/reakit)
 * [Emotion](https://github.com/emotion-js/emotion)
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Languages
 
