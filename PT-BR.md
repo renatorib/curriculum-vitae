@@ -135,36 +135,9 @@ Projetos desenvolvidos:
 
 # Tecnologias  
 Possuo conhecimento em algumas tecnologias com que trabalhei durante estes anos de experiência.    
-Hoje, porém, meu foco é em **React** e **GraphQL**.
+Hoje, porém, meu foco é em **React** e **Next.js**, **GraphQL**, **TypeScript** e **Node.js**.
 
-Tecnologias engajadas **atualmente**:
-
-* Git, Node.js, Yarn
-* ES6+, TypeScript
-* React, Next.js
-* Webpack, Babel
-* Ramda, Recompose
-* Styled Components
-* GraphQL + Apollo
-* Serverless (AWS Lambda)
-* PHP, Drupal 8
-
-Resumo dos meus principais conhecimentos:  
-
-* Yarn/Npm, Git
-* JavaScript/ESNext, TypeScript, Flow
-* HTML, CSS
-* React/Redux/RR4, jQuery
-* Next.js, Gatsby, Razzle
-* PostCSS, Stylus, Sass,
-* Emotion, Styled Components, Glamorous
-* GraphQL, Apollo (client)
-* Webpack, Babel
-* Lodash, Ramda, Recompose, Immer
-* Gulp
-* PHP, CakePHP2, Drupal 8
-
-*(foram separados por alguma ordem lógica, não necessariamente tecnologias correspondentes)*
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Open Source
 Considero o Open Source muito importante por poder retribuir com a comunidade tudo que eu já consumi dela.  
@@ -181,10 +154,14 @@ Sou/fui contribuidor em algum momento:
 * [Reakit](https://github.com/reakit/reakit)
 * [Emotion](https://github.com/emotion-js/emotion)
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 # Idiomas
 
 * **Português:** Nativo  
 * **Inglês:** Intermediário *(good read/write, bad speak/listen)* 
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Links
 
