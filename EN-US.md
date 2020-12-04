@@ -40,7 +40,7 @@ Projects:
 * Part. in development of [end-user application](https://realadvisor.ch/en) - React, Flow, GraphQL,
 * Part. in development of internal graphql API that runs other applications - Node, GraphQL, Postgres, Knex.js
 
-![space](https://user-images.githubusercontent.com/3277185/98845294-42095180-242c-11eb-8907-f4aa5c3ae5cc.png)
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
 
