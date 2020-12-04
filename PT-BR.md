@@ -189,5 +189,5 @@ Sou/fui contribuidor em algum momento:
 * **Github:** http://github.com/renatorib
 * **Twitter:** http://twitter.com/renatorib_ 
 * **Linkedin:** https://www.linkedin.com/in/renatorib/
+* **E-mail:** oi@rena.to  
 * **Website:** http://rena.to/  
-* **E-mail:** renatoribroman@gmail.com  
