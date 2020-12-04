@@ -188,5 +188,5 @@ I am/was contributor:
 # Links
 
 * **Twitter:** [http://twitter.com/renatorib_](http://twitter.com/renatorib_)
-* **E-mail:** renatoribroman@gmail.com  
+* **E-mail:** hi@rena.to  
 * **Website:** http://rena.to/
