@@ -13,7 +13,7 @@
 
 ---
 
-Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias, GraphQL e Node.
+Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Trabalho com programação desde os 15 anos, há 9 anos. Mas meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
 
 # Experiências
 
@@ -128,8 +128,8 @@ Projetos desenvolvidos:
 
 # Artigos publicados
 
-> ## [Demystifying interpreters](https://rena.to/blog/demystifying-interpreters)
-> A friendly introduction on what's and how's
+#### [Demystifying interpreters](https://rena.to/blog/demystifying-interpreters)
+> ##### A friendly introduction on what's and how's
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
