@@ -143,15 +143,17 @@ Considero o Open Source muito importante por poder retribuir com a comunidade tu
 Além, também, de considerar ser a melhor forma de se adiquirir conhecimento de forma autodidata (ex.: estudar código de outras pessoas e receber ajustes de terceiros nos próprios repos), além de praticar habilidades sociais e colaborativas (ex.: fazer e receber code review de pessoas que você nem conhece, além do diálogo envolvido).
 
 Sou criador e mantenedor:
-- [React PowerPlug](https://github.com/renatorib/react-powerplug) - 1.4 milhão downloads
-- [React Sizes](https://github.com/renatorib/react-sizes) - 1.3 milhão downloads
-- [React BPS](https://github.com/renatorib/react-bps)
-- [slaq](https://github.com/renatorib/slaq)
+
+- [React PowerPlug](https://github.com/renatorib/react-powerplug) - 1.4 milhão downloads  
+- [React Sizes](https://github.com/renatorib/react-sizes) - 1.3 milhão downloads  
+- [React BPS](https://github.com/renatorib/react-bps)  
+- [slaq](https://github.com/renatorib/slaq)  
 
 Sou/fui contribuidor em algum momento:
-- [Docz](https://github.com/pedronauck/docz)
-- [Reakit](https://github.com/reakit/reakit)
-- [Emotion](https://github.com/emotion-js/emotion)
+
+- [Docz](https://github.com/pedronauck/docz)  
+- [Reakit](https://github.com/reakit/reakit)  
+- [Emotion](https://github.com/emotion-js/emotion)  
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
