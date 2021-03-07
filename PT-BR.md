@@ -17,6 +17,7 @@ Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com comput
 
 # Experiências
 
+* [Raízs 2020](#raizs)
 * [Real Advisor 2020](#real-advisor)
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
@@ -24,6 +25,15 @@ Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com comput
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+<img src="https://user-images.githubusercontent.com/3277185/110225967-23423580-7ec9-11eb-9395-45119c93ae58.png" align="left" />
+
+## Raízs
+###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — _atual_
+
+> ...
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
