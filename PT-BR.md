@@ -28,7 +28,7 @@ Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com comput
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/110225967-23423580-7ec9-11eb-9395-45119c93ae58.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/110225976-48cf3f00-7ec9-11eb-8e72-e611181c72e2.png" align="left" />
 
 ## Raízs
 ###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — _atual_
