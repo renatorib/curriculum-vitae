@@ -13,7 +13,7 @@
 
 ---
 
-Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Trabalho com programação desde os 15 anos, há 9 anos. Mas meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
+Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Trabalho com programação desde os 15 anos, há 10 anos. Mas meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
 
 # Experiências
 
