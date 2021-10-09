@@ -26,9 +26,10 @@ Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com comput
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
 
+
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/110225986-67353a80-7ec9-11eb-8811-ca6a9cf03180.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
 ## Raízs
 ###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — _atual_
