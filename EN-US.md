@@ -18,7 +18,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 # Experiences
 
-* [Raízs](#raizs)
+* [Raízs 2020-current](#raizs)
 * [Real Advisor 2020](#real-advisor)
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
