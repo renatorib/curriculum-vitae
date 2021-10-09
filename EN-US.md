@@ -18,6 +18,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 # Experiences
 
+* [Raízs](#raizs)
 * [Real Advisor 2020](#real-advisor)
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
@@ -25,6 +26,15 @@ Since very young involved with computing, I started playing alone with programmi
 * [Plaay ME 2014](#plaay-me)
 * [Nokitua 2013-2014](#nokitua)
 * [EMBI Marketing 2011-2012](#embi-marketing)
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
+
+## Raízs
+###### Tech Lead; São Paulo, Brazil (Remote); December 2020 — _current_
+
+> [Raízs](https://www.raizs.com.br)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
