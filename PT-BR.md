@@ -147,14 +147,14 @@ Projetos desenvolvidos:
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Tecnologias  
-Possuo conhecimento em algumas tecnologias com que trabalhei durante estes anos de experiência.    
-Hoje, porém, meu foco é em **React** e **Next.js**, **GraphQL**, **TypeScript** e **Node.js**.
+Possuo conhecimento em variadas tecnologias das quais trabalhei durante todos estes anos de experiência.    
+Hoje, porém, meu foco hoje é em **React**, **GraphQL**, **TypeScript** e **Node.js**, além de todo o ecossistema, como **Next.js**, entre outros.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Open Source
-Considero o Open Source muito importante por poder retribuir com a comunidade tudo que eu já consumi dela.  
-Além, também, de considerar ser a melhor forma de se adiquirir conhecimento de forma autodidata (ex.: estudar código de outras pessoas e receber ajustes de terceiros nos próprios repos), além de praticar habilidades sociais e colaborativas (ex.: fazer e receber code review de pessoas que você nem conhece, além do diálogo envolvido).
+Considero o Open Source muito importante por poder retribuir com a comunidade tudo que eu já usufrui dela.  
+Além, também, de considerar ser a melhor forma de se adiquirir conhecimento de forma autodidata, além de praticar habilidades sociais e colaborativas.  
 
 Sou criador e mantenedor:
 
@@ -181,7 +181,7 @@ Sou/fui contribuidor em algum momento:
 # Links
 
 - **Github:** http://github.com/renatorib
-- **Twitter:** http://twitter.com/renatorib_ 
+- **Twitter:** [@renatorib_](http://twitter.com/renatorib_) 
 - **Linkedin:** https://www.linkedin.com/in/renatorib/
-- **E-mail:** ola@rena.to  
+- **E-mail:** oi@rena.to  
 - **Website:** http://rena.to/  
