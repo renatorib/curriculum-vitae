@@ -13,7 +13,7 @@
 
 ---
 
-Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos com ajuda da mente criativa e curiosa. Trabalho com programação desde os 15 anos, há 10 anos. Mas meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
+Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos. Mas trabalho profissionalmente desde os 15 anos (2011). Meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
 
 # Experiências
 
@@ -34,7 +34,10 @@ Nascido e crescido em São Paulo, Capital. Desde muito novo envolvido com comput
 ## Raízs
 ###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — _atual_
 
-> ...
+> A [Raízs](https://www.raizs.com.br) é uma empresa que conecta o pequeno produtor de orgânicos ao consumidor final. Hoje é um dos maiores e-commerces de alimentos orgânicos e agroecológicos do Brasil.
+
+Projetos desenvolvidos:
+* Liderança do time e desenvolvimento do frontend e camada de graphql da plataforma de e-commerce - React, Next.js, TypeScript, GraphQL, TypeGraphQL, GraphQL Code Generator, TailwindCSS, VTEX.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
@@ -80,7 +83,7 @@ Projetos desenvolvidos:
 Projetos desenvolvidos:
 * Desenvolvimento da aplicação de clubes de assinatura que mantém LacFreeBox, SugarFreeBox, VeganaBox, OrganicaBox, OneBox e Clube Pic-Me em React, Redux, RR4, Reselect, PostCSS, com Flow.
 * Desenvolvimento do site institucional da com React, RR4.  
-* Desenvolvimento aplicação [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
+* Desenvolvimento da aplicação de [e-commerce](https://onemarket.com.br/produtos) em React, RR4, GraphQL/Apollo, Glamorous (migrando para Emotion), Razzle (SSR), com TypeScript.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
