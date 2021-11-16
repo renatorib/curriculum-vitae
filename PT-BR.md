@@ -8,7 +8,7 @@
 
 # Renato Ribeiro
 *Software Engineer, 25 anos.*  
-*São Paulo, Brasil.*  
+*São Paulo, SP, Brasil.*  
 <sub>oi@rena.to</sub>
 
 ---
