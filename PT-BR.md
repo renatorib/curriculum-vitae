@@ -160,8 +160,7 @@ Sou criador e mantenedor:
 
 - [React PowerPlug](https://github.com/renatorib/react-powerplug) - 1.4 milhão downloads  
 - [React Sizes](https://github.com/renatorib/react-sizes) - 1.3 milhão downloads  
-- [React BPS](https://github.com/renatorib/react-bps)  
-- [slaq](https://github.com/renatorib/slaq)  
+- [github-blog](https://github.com/renatorib/github-blog)  
 
 Sou/fui contribuidor em algum momento:
 
