@@ -180,8 +180,8 @@ Sou/fui contribuidor em algum momento:
 
 # Links
 
-- **Github:** http://github.com/renatorib
-- **Twitter:** [@renatorib_](http://twitter.com/renatorib_) 
-- **Linkedin:** https://www.linkedin.com/in/renatorib/
-- **E-mail:** oi@rena.to  
-- **Website:** http://rena.to/  
+- **Github:** [@renatorib](http://github.com/renatorib)
+- **Twitter:** [@renatorib_](http://twitter.com/renatorib_)
+- **Linkedin:** [@renatorib](https://www.linkedin.com/in/renatorib/)
+- **E-mail:** oi@rena.to
+- **Website:** [rena.to](http://rena.to/)
