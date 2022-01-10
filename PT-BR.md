@@ -7,7 +7,7 @@
 <img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
 
 # Renato Ribeiro
-*Software Engineer, 25 anos.*  
+*Software Engineer, 26 anos.*  
 *São Paulo, SP, Brasil.*  
 <sub>oi@rena.to</sub>
 
