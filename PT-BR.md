@@ -17,7 +17,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 # Experiências
 
-* [Raízs 2020-2021](#raizs)
+* [Raízs 2020-current](#raizs)
 * [Real Advisor 2020](#real-advisor)
 * [Taller 2018-2019](#taller)
 * [OneMarket 2016-2018](#onemarket)
