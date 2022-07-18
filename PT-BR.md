@@ -162,11 +162,11 @@ Sou criador e mantenedor:
 - [React Sizes](https://github.com/renatorib/react-sizes) - 1.3 milhão downloads  
 - [github-blog](https://github.com/renatorib/github-blog)  
 
-Sou/fui contribuidor em algum momento:
+Contribuições:
 
-- [Docz](https://github.com/pedronauck/docz)  
-- [Reakit](https://github.com/reakit/reakit)  
-- [Emotion](https://github.com/emotion-js/emotion)  
+- [Docz](https://github.com/doczjs/docz/commits?author=renatorib)  
+- [Ariakit](https://github.com/ariakit/ariakit/commits?author=renatorib)  
+- [Emotion](https://github.com/emotion-js/emotion/commits?author=renatorib)  
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
