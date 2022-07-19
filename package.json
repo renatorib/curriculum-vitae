@@ -1,0 +1,16 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/renatorib/curriculum-vitae",
+  "author": "<renatoribroman@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:pt-br": "cat PT-BR.md | md-to-pdf > ./build/PT-BR.pdf",
+    "build:en-us": "cat EN-US.md | md-to-pdf > ./build/EN-US.pdf",
+    "build": "mkdir build && yarn build:pt-br && yarn build:en-us"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.1.0"
+  }
+}
