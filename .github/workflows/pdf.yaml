@@ -32,5 +32,10 @@ jobs:
 
       - uses: actions/upload-artifact@v1
         with:
-          name: renatorib-cv
-          path: build
+          name: renatorib-pt-br
+          path: build/PT-BR.pdf
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: renatorib-en-us
+          path: build/EN-US.pdf
