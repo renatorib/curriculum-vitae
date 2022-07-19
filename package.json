@@ -6,9 +6,10 @@
   "author": "<renatoribroman@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build:pt-br": "cat PT-BR.md | md-to-pdf > ./build/PT-BR.pdf",
-    "build:en-us": "cat EN-US.md | md-to-pdf > ./build/EN-US.pdf",
-    "build": "mkdir build && yarn build:pt-br && yarn build:en-us"
+    "to-pdf": "md-to-pdf --stylesheet md/style.css --body-class markdown-body",
+    "build:pt-br": "cat PT-BR.md | yarn to-pdf > ./build/PT-BR.pdf",
+    "build:en-us": "cat EN-US.md | yarn to-pdf > ./build/EN-US.pdf",
+    "build": "rm -rf build && mkdir build && yarn build:pt-br && yarn build:en-us"
   },
   "dependencies": {
     "md-to-pdf": "^5.1.0"
