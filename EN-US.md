@@ -19,7 +19,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 # Experiences
 
-- [Raízs 2020-current](#raizs)
+- [Raízs 2020-current](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
 - [OneMarket 2016-2018](#onemarket)
@@ -36,7 +36,13 @@ Since very young involved with computing, I started playing alone with programmi
 
 ###### Tech Lead; São Paulo, Brazil (Remote); December 2020 — _current_
 
-> [Raízs](https://www.raizs.com.br)
+> [Raízs](https://www.raizs.com.br) is a company that connects the small organic producer to the final consumer. Today it is one of the largest e-commerces of organic and agroecological food in Brazil.
+
+Projects:
+
+- Team leadership and development of the e-commerce platform frontend - React, Next.js, TypeScript, GraphQL, TypeGraphQL, GraphQL Code Generator, TailwindCSS, VTEX.
+- Team leadership and development of the GraphQL layer of the platform responsible for creating a single contract with the frontend and other clients
+- Team leadership and development of CMS - Sanity.io, React, TypeScript.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
