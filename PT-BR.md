@@ -10,7 +10,7 @@
 
 _Software Engineer, 26 anos._  
 _São Paulo, SP, Brasil._  
-<sub>oi@rena.to</sub>
+<sub>https://rena.to - hi@rena.to</sub>
 
 ---
 
@@ -39,7 +39,9 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 Projetos desenvolvidos:
 
-- Liderança do time e desenvolvimento do frontend e camada de graphql da plataforma de e-commerce - React, Next.js, TypeScript, GraphQL, TypeGraphQL, GraphQL Code Generator, TailwindCSS, VTEX.
+- Liderança do time e desenvolvimento do frontend da plataforma de e-commerce - React, Next.js, TypeScript, GraphQL, GraphQL Code Generator, TailwindCSS
+- Liderança do time e desenvolvimento da camada de GraphQL da plataforma responsável por criar um único contrato com o frontend e outros clients - Node.js, TypeScript, GraphQL, TypeGraphQL, VTEX
+- Liderança do time e desenvolvimento do CMS - Sanity.io, React, TypeScript.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
