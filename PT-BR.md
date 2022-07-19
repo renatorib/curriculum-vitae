@@ -1,10 +1,6 @@
 <sup>
  
-[Ler na web](https://github.com/renatorib/curriculum-vitae/blob/master/PT-BR.md)
-
-|
-
-[Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
+[Ler na web](https://github.com/renatorib/curriculum-vitae/blob/master/PT-BR.md) | [Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md)
 
 </sup>
 
