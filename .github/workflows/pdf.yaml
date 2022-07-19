@@ -4,7 +4,7 @@ on:
   push:
 
 jobs:
-  deploy:
+  upload-pdf-artifact:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
