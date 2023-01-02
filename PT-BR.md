@@ -200,7 +200,7 @@ Contribuições:
 # Links
 
 - **Github:** [@renatorib](http://github.com/renatorib)
-- **Twitter:** [@renatorib\_](http://twitter.com/renatorib_)
+- **Twitter:** [@renatoribz](http://twitter.com/renatoribz)
 - **Linkedin:** [@renatorib](https://www.linkedin.com/in/renatorib/)
 - **E-mail:** oi@rena.to
 - **Website:** [rena.to](http://rena.to/)
