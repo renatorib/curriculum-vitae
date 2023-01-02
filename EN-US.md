@@ -8,7 +8,7 @@
 
 # Renato Ribeiro
 
-_Software Engineer, 26._  
+_Software Engineer, 27._  
 _São Paulo, Brazil._  
 <sub>https://rena.to - hi@rena.to</sub>
 
@@ -19,7 +19,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 # Experiences
 
-- [Raízs 2020-current](#raízs)
+- [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
 - [OneMarket 2016-2018](#onemarket)
@@ -34,7 +34,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 ## Raízs
 
-###### Tech Lead; São Paulo, Brazil (Remote); December 2020 — _current_
+###### Tech Lead; São Paulo, Brazil (Remote); December 2020 — October 2022
 
 > [Raízs](https://www.raizs.com.br) is a company that connects the small organic producer to the final consumer. Today it is one of the largest e-commerces of organic and agroecological food in Brazil.
 
