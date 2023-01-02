@@ -201,6 +201,6 @@ I contributed:
 
 # Links
 
-- **Twitter:** [http://twitter.com/renatorib\_](http://twitter.com/renatorib_)
+- **Twitter:** [http://twitter.com/renatoribz](http://twitter.com/renatoribz)
 - **E-mail:** hi@rena.to
 - **Website:** http://rena.to/
