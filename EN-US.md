@@ -202,7 +202,7 @@ I contributed:
 # Links
 
 - **Github:** [github.com/renatorib](https://github.com/renatorib)
-- **Twitter:** twitter.com/renatoribz](https://twitter.com/renatoribz)
+- **Twitter:** [twitter.com/renatoribz](https://twitter.com/renatoribz)
 - **E-mail:** hi@rena.to
 - **Website:** [rena.to](https://rena.to)
 - **LinkedIn:** [linkedin.com/in/renatorib](https://linkedin.com/in/renatorib)
