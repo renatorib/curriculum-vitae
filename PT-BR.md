@@ -8,7 +8,7 @@
 
 # Renato Ribeiro
 
-_Software Engineer, 26 anos._  
+_Software Engineer, 27 anos._  
 _São Paulo, SP, Brasil._  
 <sub>https://rena.to - hi@rena.to</sub>
 
@@ -18,7 +18,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 # Experiências
 
-- [Raízs 2020-atual](#raízs)
+- [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
 - [OneMarket 2016-2018](#onemarket)
@@ -33,7 +33,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 ## Raízs
 
-###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — _atual_
+###### Tech Lead; São Paulo, SP (Remoto); Dezembro 2020 — Outubro 2022
 
 > A [Raízs](https://www.raizs.com.br) é uma empresa que conecta o pequeno produtor de orgânicos ao consumidor final. Hoje é um dos maiores e-commerces de alimentos orgânicos e agroecológicos do Brasil.
 
