@@ -4,7 +4,7 @@
 
 </sup>
 
-<img align="right" width="120" src="https://avatars2.githubusercontent.com/u/3277185" />
+<img align="right" width="120" src="https://user-images.githubusercontent.com/3277185/213899822-f6ea7d04-76c7-45e9-9bf8-00bb719301ce.png" />
 
 # Renato Ribeiro
 
