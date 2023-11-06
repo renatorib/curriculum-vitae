@@ -18,6 +18,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 # Experiências
 
+- [Progic 2023](#progic)
 - [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
@@ -29,7 +30,11 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
+## Progic
+
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" align="left" />
+
+###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — _Atual_
 
 ## Raízs
 
