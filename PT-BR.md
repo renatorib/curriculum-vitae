@@ -32,7 +32,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 ## Progic
 
-<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" align="left" />
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
 
 ###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — _Atual_
 
