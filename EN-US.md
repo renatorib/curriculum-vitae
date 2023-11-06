@@ -15,10 +15,11 @@ _São Paulo, Brazil._
 ---
 
 Born and raised in São Paulo, Brazil.  
-Since very young involved with computing, I started playing alone with programming when was twelve with incentive of my creative and curious mind. Currently engaged with the React community and its technologies.
+Since very young involved with computing, I started playing alone with programming when I was twelve with the incentive of my creative and curious mind. Currently engaged with the React community and its technologies.
 
 # Experiences
 
+- [Progic 2023](#progic)
 - [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
@@ -29,6 +30,12 @@ Since very young involved with computing, I started playing alone with programmi
 - [EMBI Marketing 2011-2012](#embi-marketing)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
+
+## Progic
+
+###### Senior Frontend Engineer; Florianópolis, Brazil (Remote); February 2023 — _Current_
 
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
