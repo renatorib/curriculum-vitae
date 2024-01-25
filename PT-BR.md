@@ -36,6 +36,8 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 ###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — _Atual_
 
+> A [Progic](https://progic.com.br/) é uma plataforma multicanal de comunicação corporativa, Possui mais de 600 clientes e é líder em tecnologia para comunicação interna.
+
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
 ## Raízs
