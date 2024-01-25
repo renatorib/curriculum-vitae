@@ -37,6 +37,8 @@ Since very young involved with computing, I started playing alone with programmi
 
 ###### Senior Frontend Engineer; Florianópolis, Brazil (Remote); February 2023 — _Current_
 
+> [Progic](https://progic.com.br/) is a multichannel corporate communication platform, has more than 600 customers and is a leader in internal communication technology in Brazil.
+
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
 ## Raízs
