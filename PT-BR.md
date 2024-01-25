@@ -8,7 +8,7 @@
 
 # Renato Ribeiro
 
-_Software Engineer, 27 anos._  
+_Software Engineer, 28 anos._  
 _São Paulo, SP, Brasil._  
 <sub>https://rena.to - hi@rena.to</sub>
 
