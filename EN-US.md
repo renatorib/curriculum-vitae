@@ -8,7 +8,7 @@
 
 _Software Engineer, 28._  
 _São Paulo, Brazil._  
-<sub>https://rena.to - hi@rena.to</sub>
+<sub>https://rena.to - hi@rena.to -  +55 11 960762016</sub> 
 
 ---
 
