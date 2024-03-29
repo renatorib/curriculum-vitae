@@ -8,7 +8,7 @@
 
 _Software Engineer, 28 anos._  
 _São Paulo, SP, Brasil._  
-<sub>https://rena.to - hi@rena.to</sub> - (11) 96076-2016
+<sub>https://rena.to - hi@rena.to  - (11) 96076-2016</sub>
 
 ---
 
