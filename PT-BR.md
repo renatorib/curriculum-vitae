@@ -4,13 +4,11 @@
 
 </sup>
 
-<img align="right" width="120" src="https://user-images.githubusercontent.com/3277185/213899822-f6ea7d04-76c7-45e9-9bf8-00bb719301ce.png" />
-
 # Renato Ribeiro
 
 _Software Engineer, 28 anos._  
 _São Paulo, SP, Brasil._  
-<sub>https://rena.to - hi@rena.to</sub>
+<sub>https://rena.to - hi@rena.to</sub> - (11) 96076-2016
 
 ---
 
