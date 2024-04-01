@@ -16,7 +16,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 # Experiências
 
-- [Progic 2023](#progic)
+- [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
@@ -35,6 +35,9 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 ###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — _Atual_
 
 > A [Progic](https://progic.com.br/) é uma plataforma multicanal de comunicação corporativa, Possui mais de 600 clientes e é líder em tecnologia para comunicação interna.
+
+- Liderança do time de frontend e desenvolvimento do Caqui WebApp (rede social interna) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS.
+- Liderança do time de frontend e desenvolvimento do novo Progic Manager (software onde os clientes gerenciam as postagens e conteúdos que aparecem nas TVs e outros canais) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS, Framer Motion.
 
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
