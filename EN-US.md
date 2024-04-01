@@ -17,7 +17,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 # Experiences
 
-- [Progic 2023](#progic)
+- [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
 - [Taller 2018-2019](#taller)
