@@ -38,7 +38,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 - Liderança do time de frontend e desenvolvimento do Caqui WebApp (rede social interna) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS.
 - Liderança do time de frontend e desenvolvimento do novo Progic Manager (software onde os clientes gerenciam as postagens e conteúdos que aparecem nas TVs e outros canais) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS, Framer Motion.
-- 
+
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
@@ -56,8 +56,6 @@ Projetos desenvolvidos:
 - Liderança do time e desenvolvimento do CMS - Sanity.io, React, TypeScript.
 
 <div class="page-break"></div>
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
 
@@ -92,7 +90,7 @@ Projetos desenvolvidos:
 - Desenvolvimento de slack bots internamente para facilitar o dia a dia em alguns processos - Node.js, [slaq](https://github.com/renatorib/slaq)
 - Participação no desenvolvimento de diversos outros projetos menores
 
-<div class="page-break"></div>
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
 
@@ -125,7 +123,7 @@ Projetos desenvolvidos:
 - Manutenção da Landing Page legada com Gulp, Handlebars, e Browserify e posteriormente a criação da nova Landing Page em React com Gatsby.
 - Desenvolvimento da aplicação da área do médico e da aplicação do paciente com React, RR2, Redux, CSS Modules (PostCSS).
 
-<div class="page-break"></div>
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 <img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
 
@@ -155,8 +153,6 @@ Projetos desenvolvidos:
 - Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<div class="page-break"></div>
 
 ## EMBI Marketing
 
