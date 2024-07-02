@@ -943,3 +943,7 @@
 .markdown-body ::-webkit-calendar-picker-indicator {
   filter: invert(50%);
 }
+
+.page-break {
+  page-break-after: always;
+}
