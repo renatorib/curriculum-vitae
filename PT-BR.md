@@ -26,6 +26,8 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 - [Nokitua 2013-2014](#nokitua)
 - [EMBI Marketing 2011-2012](#embi-marketing)
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 <div class="page-break"></div>
 
 <img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
