@@ -30,9 +30,13 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 <img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
 
+
+
+
+
 ## Progic
 
-###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — _Atual_
+###### Senior Frontend Engineer; Florianópolis, SC (Remoto); Fevereito 2023 — Maio 2024
 
 > A [Progic](https://progic.com.br/) é uma plataforma multicanal de comunicação corporativa, Possui mais de 600 clientes e é líder em tecnologia para comunicação interna.
 
