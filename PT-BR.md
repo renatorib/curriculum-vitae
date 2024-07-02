@@ -31,8 +31,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 <img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
 
 
-
-
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/3f9391f0-b622-4b06-a6e2-d72ba9c99880" width="1px" height="200px" />
 
 ## Progic
 
