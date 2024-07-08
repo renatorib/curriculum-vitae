@@ -37,7 +37,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 ## Progic
 
-###### Senior Frontend Engineer; Florianópolis, Brazil (Remote); February 2023 — _Current_
+###### Senior Frontend Engineer; Florianópolis, Brazil (Remote); February 2023 — May 2024
 
 > [Progic](https://progic.com.br/) is a multichannel corporate communication platform, has more than 600 customers and is a leader in internal communication technology in Brazil.
 
