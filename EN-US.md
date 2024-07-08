@@ -178,6 +178,7 @@ Projects:
 
 # Published articles
 
+- **[Demystifying bundlers](https://rena.to/blog/demystifying-bundlers)** - A friendly introduction to whats and hows
 - **[GraphQL in TypeScript over the years](https://rena.to/blog/graphql-in-typescript-over-the-years)** - How things have changed and still can change
 - **[Demystifying interpreters](https://rena.to/blog/demystifying-interpreters)** - A friendly introduction on whats and hows
 
