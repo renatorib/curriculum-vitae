@@ -29,6 +29,10 @@ Since very young involved with computing, I started playing alone with programmi
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
+<div class="page-break"></div>
+
+<div class="avoid-break">
+
 <img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
 
 ## Progic
@@ -41,6 +45,8 @@ Projects:
 
 - Team leadership (of frontend) and development of the Caqui WebApp (internal social network) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS.
 - Team leadership (of frontend) and development of new Progic Manager (a software where customers manage the posts and content that appear on TVs and other channels) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS, Framer Motion.
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
 
