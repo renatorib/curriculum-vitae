@@ -947,3 +947,8 @@
 .page-break {
   page-break-after: always;
 }
+
+.avoid-break {
+  break-inside: avoid;
+  margin-bottom: 20px;
+}
