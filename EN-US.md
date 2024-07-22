@@ -6,7 +6,7 @@
 
 # Renato Ribeiro
 
-_Software Engineer, 28._  
+_Senior Software Engineer, 28._  
 _São Paulo, Brazil._  
 <sub>https://rena.to - hi@rena.to -  +55 11 960762016</sub> 
 
@@ -16,6 +16,10 @@ Born and raised in São Paulo, Brazil.
 Since very young involved with computing, I started playing alone with programming when I was twelve with the incentive of my creative and curious mind. Currently engaged with the React community and its technologies.
 
 # Experiences
+
+12+ years of experience with Web Development (HTML/CSS/JS).
+8+ years of experience with React ecosystem.
+8+ years of experience with TypeScript and Node.js.
 
 - [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
@@ -187,7 +191,7 @@ Projects:
 # Skills
 
 I have many skills that I have developed during these years of experience in the professional market.
-Today, though, my focus is on JS ecossystem: **React**, **Next.js**, **GraphQL**, **TypeScript** and **Node**.
+Today, though, my focus is on JS ecossystem: **React**, **Next.js**, **GraphQL**, **TypeScript**, **Node**, also **PostgreSQL** and **Drizzle**.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
