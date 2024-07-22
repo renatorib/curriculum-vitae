@@ -21,6 +21,8 @@ Since very young involved with computing, I started playing alone with programmi
 8+ years of experience with React ecosystem.  
 8+ years of experience with TypeScript and Node.js.  
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 - [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
 - [Real Advisor 2020](#real-advisor)
