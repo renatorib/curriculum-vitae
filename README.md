@@ -1,7 +1,9 @@
 # Renato Ribeiro
 
 Hello, my name is Renato Ribeiro.  
-Welcome to my updated curriculum vitae.  
+Welcome to my updated curriculum vitae. 
+
+---
 
 **🌐 Read online (on github):**  
 * [EN-US 🇺🇸 - Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/build/EN-US.pdf)
