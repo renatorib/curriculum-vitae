@@ -1,6 +1,6 @@
 # Renato Ribeiro's CV
 
-**PDF:**  
+**Read online (on github):**  
 * [Read in english](https://github.com/renatorib/curriculum-vitae/blob/master/build/EN-US.pdf)
 * [Ler em português](https://github.com/renatorib/curriculum-vitae/blob/master/build/PT-BR.pdf)
 
