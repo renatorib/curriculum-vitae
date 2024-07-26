@@ -12,9 +12,13 @@ _São Paulo, SP, Brasil._
 
 ---
 
-Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computação, comecei a brincar sozinho com programação aos 13 anos. Mas trabalho profissionalmente desde os 15 anos (2011). Meu envolvimento com o React aconteceu ainda em 2016, e, desde então, evoluí em um ritmo muito acelerado em todo o ecossistema JavaScript.
+Nascido e crescido em São Paulo, SP. Desde muito jovem envolvido com computação, comecei a brincar sozinho com programação aos doze anos com o incentivo da minha mente criativa e curiosa. Atualmente engajado com a comunidade React e suas tecnologias.
 
 # Experiências
+
+> 12+ anos de experiência com desenvolvimento web (HTML/CSS/JS).
+> 8+ anos de experiência com React e seu ecossistema.
+> 8+ anos de experiência com TypeScript e Node.
 
 - [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
@@ -30,7 +34,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 <div class="page-break"></div>
 
-<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" align="left" />
 
 ## Progic
 
@@ -43,7 +47,7 @@ Nascido e crescido em São Paulo, SP. Desde muito novo envolvido com computaçã
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" width="50px" align="left" />
 
 ## Raízs
 
@@ -59,7 +63,7 @@ Projetos desenvolvidos:
 
 <div class="page-break"></div>
 
-<img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" width="50px" align="left" />
 
 ## Real Advisor
 
@@ -75,7 +79,7 @@ Projetos desenvolvidos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" width="50px" align="left" />
 
 ## Taller
 
@@ -94,7 +98,7 @@ Projetos desenvolvidos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" width="50px" align="left" />
 
 ## OneMarket
 
@@ -111,7 +115,7 @@ Projetos desenvolvidos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" width="50px" align="left" />
 
 ## Dr.Vem!
 
@@ -127,7 +131,7 @@ Projetos desenvolvidos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" width="50px" align="left" />
 
 ## Plaay ME
 
@@ -142,7 +146,7 @@ Projetos desenvolvidos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" align="left" />
+<img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" width="50px" align="left" />
 
 ## Nokitua
 
