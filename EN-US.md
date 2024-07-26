@@ -36,7 +36,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 <div class="page-break"></div>
 
-<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" height="50px" align="left" />
+<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" align="left" />
 
 ## Progic
 
