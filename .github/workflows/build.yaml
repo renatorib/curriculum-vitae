@@ -8,8 +8,7 @@ jobs:
     steps:
       - name: Checkout
         run: |
-          git clone https://oauth2:${{ github.token }}@github.com/${{ github.repository }}.git repo
-          cd repo
+          git clone https://oauth2:${{ github.token }}@github.com/${{ github.repository }}.git
       - uses: pnpm/action-setup@v4
         with:
           version: 9.6
