@@ -1,17 +1,20 @@
 {
   "name": "curriculum-vitae",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/renatorib/curriculum-vitae",
   "author": "<renatoribroman@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "to-pdf": "md-to-pdf --stylesheet md/style.css --body-class markdown-body",
-    "build:pt-br": "cat PT-BR.md | yarn to-pdf > ./build/PT-BR.pdf",
-    "build:en-us": "cat EN-US.md | yarn to-pdf > ./build/EN-US.pdf",
-    "build": "rm -rf build && mkdir build && yarn build:pt-br && yarn build:en-us"
+    "build": "./bin/build.mjs"
   },
-  "dependencies": {
-    "md-to-pdf": "^5.1.0"
+  "packageManager": "pnpm@9.4.0+sha512.f549b8a52c9d2b8536762f99c0722205efc5af913e77835dbccc3b0b0b2ca9e7dc8022b78062c17291c48e88749c70ce88eb5a74f1fa8c4bf5e18bb46c8bd83a",
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "fast-glob": "^3.3.2",
+    "http-server": "^14.1.1",
+    "micromark": "^4.0.0",
+    "micromark-extension-gfm": "^3.0.0",
+    "puppeteer": "^22.14.0"
   }
 }

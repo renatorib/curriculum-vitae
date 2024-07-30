@@ -8,7 +8,7 @@
 
 _Senior Software Engineer, 28._  
 _São Paulo, Brazil._  
-<sub>https://rena.to - hi@rena.to -  +55 11 960762016</sub> 
+<sub>https://rena.to - hi@rena.to - +55 11 960762016</sub>
 
 ---
 
@@ -19,7 +19,7 @@ Since very young involved with computing, I started playing alone with programmi
 
 > 12+ years of experience with Web Development (HTML/CSS/JS).  
 > 8+ years of experience with React ecosystem.  
-> 8+ years of experience with TypeScript and Node.js.  
+> 8+ years of experience with TypeScript and Node.js.
 
 - [Progic 2023-2024](#progic)
 - [Raízs 2020-2022](#raízs)
