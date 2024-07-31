@@ -76,7 +76,7 @@ Desenvolvedor de software com mais de 12 anos de experiência em desenvolvimento
 
 ### Web designer aprendiz na EMBI Marketing
 
-#### São Paulo, SP; Maio 2011 — Janeiro 2012
+#### Maio 2011 — Janeiro 2012; São Paulo, SP
 
 - Criação de email marketing com técnicas anti-spam e cross-browser/platform.
 - Criação de sites em wordpress, com grande foco em SEO.
