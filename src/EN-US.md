@@ -1,9 +1,3 @@
-<sup>
- 
-[Read on the web](https://github.com/renatorib/curriculum-vitae/blob/master/EN-US.md) | [Ler em português](https://github.com/renatorib/curriculum-vitae/blob/master/PT-BR.md)
-
-</sup>
-
 # Renato Ribeiro
 
 _Senior Software Engineer, 28._  
