@@ -12,175 +12,82 @@ _São Paulo, Brazil._
 
 ---
 
-Born and raised in São Paulo, Brazil.  
-Since very young involved with computing, I started playing alone with programming when I was twelve with the incentive of my creative and curious mind. Currently engaged with the React community and its technologies.
+Software developer with over 12 years of experience in web development and a strong specialization in React, TypeScript, Node.js, and SQL. My expertise extends to emerging technologies and modern practices, with a focus on performance, scalability, and user experience.
 
-# Experiences
+## Professional Experience
 
-> 12+ years of experience with Web Development (HTML/CSS/JS).  
-> 8+ years of experience with React ecosystem.  
-> 8+ years of experience with TypeScript and Node.js.
+### Senior Frontend Engineer at Progic
 
-- [Progic 2023-2024](#progic)
-- [Raízs 2020-2022](#raízs)
-- [Real Advisor 2020](#real-advisor)
-- [Taller 2018-2019](#taller)
-- [OneMarket 2016-2018](#onemarket)
-- [Dr.Vem! 2016](#drvem)
-- [Plaay ME 2014](#plaay-me)
-- [Nokitua 2013-2014](#nokitua)
-- [EMBI Marketing 2011-2012](#embi-marketing)
+#### February 2023 — May 2024; Florianópolis, SC (Remote)
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+- Led the frontend team and developed Caqui WebApp (internal social network) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS.
+- Led the frontend team and developed the new Progic Manager (software where clients manage posts and content displayed on TVs and other channels) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS, Framer Motion.
 
-<div class="page-break"></div>
+### Tech Lead at Raízs
 
-<img src="https://github.com/renatorib/curriculum-vitae/assets/3277185/0d175b97-664a-4c15-85b6-fcb37c965a6b" width="50px" align="left" />
+#### December 2020 — October 2022; São Paulo, SP (Remote)
 
-## Progic
+- Led the team and developed the frontend for the e-commerce platform - React, Next.js, TypeScript, GraphQL, GraphQL Code Generator, TailwindCSS.
+- Led the team and developed the GraphQL layer of the platform responsible for creating a single contract with the frontend and other clients - Node.js, TypeScript, GraphQL, TypeGraphQL, VTEX.
+- Led the team and developed the CMS - Sanity.io, React, TypeScript.
 
-###### Senior Frontend Engineer; Florianópolis, Brazil (Remote); February 2023 — May 2024
+### Full-stack Engineer at Real Advisor
 
-> [Progic](https://progic.com.br/) is a multichannel corporate communication platform, has more than 600 customers and is a leader in internal communication technology in Brazil.
+#### January 2020 — May 2020; Geneva, Switzerland (Remote)
 
-Projects:
+- Contributed to the development and maintenance of the CRM system used internally and by other brokers (multi-tenancy) - React, Flow, GraphQL, Relay.
+- Contributed to the development and maintenance of the [end-user application](https://realadvisor.ch/en) - React, Flow, GraphQL.
+- Contributed to the development and maintenance of the backend/graphql (internal API) that powers other applications - Node, GraphQL, PostgreSQL, Knex.js.
 
-- Team leadership (of frontend) and development of the Caqui WebApp (internal social network) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS.
-- Team leadership (of frontend) and development of new Progic Manager (a software where customers manage the posts and content that appear on TVs and other channels) - React, Next.js, TypeScript, react-query, MUI, TailwindCSS, Framer Motion.
+### Full-stack Engineer at Taller
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+#### November 2018 — December 2019; Florianópolis, SC (Remote)
 
-<img src="https://user-images.githubusercontent.com/3277185/136670363-95ded846-07fe-4275-b7a8-385c8e81a6b5.png" width="50px" align="left" />
+- Maintained the [Natura](https://natura.com.br/) website - Drupal, GraphQL, Next.js.
+- Contributed to the development and maintenance of the [NSCTotal](https://nsctotal.com.br) website - Drupal, GraphQL, Next.js.
+- Contributed to the development of the NSCTotal paywall system - Drupal, Node.js, Redis, Serverless.
+- Contributed to the development of the [Pactera Edge](https://www.pacteraedge.com/) website - Drupal, GraphQL, Next.js.
+- Developed internal Slack bots to facilitate daily processes - Node.js, [slaq](https://github.com/renatorib/slaq).
+- Contributed to the development of various other smaller projects.
 
-## Raízs
+### Frontend Engineer at OneMarket
 
-###### Tech Lead; São Paulo, Brazil (Remote); December 2020 — October 2022
+#### December 2016 — July 2018; São Paulo, SP
 
-> [Raízs](https://www.raizs.com.br) is a company that connects the small organic producer to the final consumer. Today it is one of the largest e-commerces of organic and agroecological food in Brazil.
+- Developed the subscription box application for LacFreeBox, SugarFreeBox, VeganaBox, OrganicaBox, OneBox, and Clube Pic-Me in React, Redux, RR4, Reselect, PostCSS, with Flow.
+- Developed the institutional website with React, RR4.
+- Developed the [e-commerce](https://onemarket.com.br/produtos) application in React, RR4, GraphQL/Apollo, Glamorous (migrating to Emotion), Razzle (SSR), with TypeScript.
 
-Projects:
+### Frontend Engineer at Dr.Vem!
 
-- Team leadership and development of the e-commerce platform frontend - React, Next.js, TypeScript, GraphQL, TypeGraphQL, GraphQL Code Generator, TailwindCSS, VTEX.
-- Team leadership and development of the GraphQL layer of the platform responsible for creating a single contract with the frontend and other clients
-- Team leadership and development of CMS - Sanity.io, React, TypeScript.
+#### March 2016 — December 2016; São Paulo, SP (Remote)
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+- Maintained the legacy Landing Page with Gulp, Handlebars, and Browserify and later created the new Landing Page in React with Gatsby.
+- Developed the medical area application and the patient application with React, RR2, Redux, CSS Modules (PostCSS).
 
-<img src="https://user-images.githubusercontent.com/3277185/98844338-f1ddbf80-242a-11eb-9775-56ccc7c579ab.png" width="50px" align="left" />
+### Full-stack Developer at Plaay ME
 
-## Real Advisor
+#### April 2014 — November 2014; São Paulo, SP
 
-###### Full-stack Engineer; Genova, Switzerland (Remote); January 2020 — May 2020
+- Developed various internal systems (CRUDs / dashboards) in CakePHP.
+- Developed the music player application in Backbone Marionette and Node Webkit (an older alternative to what is now Electron for desktop applications).
 
-> [Real Advisor](https://realadvisor.com) is a Switzerland-based online Real Estate that is expanding to new europe countries.
+### Full-stack Developer at Nokitua
 
-Projects:
+#### September 2013 — April 2014; São Paulo, SP
 
-- Part. in development of internal CRM - React, Flow, GraphQL, Relay
-- Part. in development of [end-user application](https://realadvisor.ch/en) - React, Flow, GraphQL,
-- Part. in development of internal graphql API that runs other applications - Node, GraphQL, Postgres, Knex.js
+- Developed WordPress sites and CakePHP systems for various clients.
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+<br />
 
-<img src="https://user-images.githubusercontent.com/3277185/57595514-ea7ae480-751b-11e9-8787-3a54fb7f1895.png" width="50px" align="left" />
+### Junior Web Designer at EMBI Marketing
 
-## Taller
+#### São Paulo, SP; May 2011 — January 2012
 
-###### Full-stack Engineer; Florianópolis, Brazil (Remote); November 2018 — December 2019
+- Created email marketing with anti-spam and cross-browser/platform techniques.
+- Created WordPress sites with a strong focus on SEO.
 
-> [Taller](https://taller.net.br) is a team that develops quality software for technological inovations of high complexity.
-
-Projects:
-
-- Maintenance in [Natura](https://natura.com.br/) website application - Drupal, GraphQL, Next.js
-- Part. in development of [NSCTotal](https://nsctotal.com.br) website application - Drupal, GraphQL, Next.js
-- Part. in development of paywall system for NSCTotal - Drupal, Node.js, Redis, Serverless
-- Part. in development of [Pactera Edge](https://www.pacteraedge.com/) application - Drupal, GraphQL, Next.js
-- Development of internal slack bots that help in some daily proccess - Node.js, [slaq](https://github.com/renatorib/slaq)
-- Part. in development of other small projects
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<img src="https://user-images.githubusercontent.com/3277185/57595515-eb137b00-751b-11e9-9e51-070809114ca2.png" align="left" />
-
-## OneMarket
-
-###### Frontend Engineer; São Paulo, Brazil; December 2016 — July 2018
-
-> OneMarket is a company focused in healthy food. Has behind signature clubs in brazil that are focused in healthy eating.  
-> Today live with [GlutenFreeBox](https://glutenfreebox.com.br), [LacFreeBox](https://lacfreebox.com.br), [SugarFreeBox](https://sugarfreebox.com.br), [VeganaBox](https://veganabox.com.br), [OneBox](https://onebox.com.br) and [Clube Pic-Me](http://picme.onemarket.com.br).
-
-Projects:
-
-- Part. in development of club singnature application that runs LacFreeBox, SugarFreeBox, VeganaBox, OneBox and Clube Pic-Me with React, Redux, RR4, Reselect, PostCSS, with Flow.
-- Development of institutional site [OneMarket](https://onemarket.com.br) with React, RR4.
-- Part. in development of new ecommerce application with React, RR4, GraphQL/Apollo, Glamorous, with TypeScript.
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<img src="https://user-images.githubusercontent.com/3277185/57595517-ebac1180-751b-11e9-901d-ef3a37ca9f85.png" width="50px" align="left" />
-
-## Dr.Vem!
-
-###### Frontend Engineer; São Paulo, Brazil (Remote); March 2016 — December 2016
-
-> Dr.Vem! was a health startup, focused on home care.  
-> Platform that connects clinics and autonomous doctors to patients who seek care in their home, and thus avoid the stress and risks of a hospital environment.
-
-Projects:
-
-- Development of the doctor/patient application with React, Redux, PostCSS.
-- Maintenance of the legacy Landing Page with Gulp, Handlebars, and Browserify and later, creation of the new Landing Page on React with Gatsby.
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<img src="https://user-images.githubusercontent.com/3277185/57595519-ecdd3e80-751b-11e9-9075-9bf608d31905.png" width="50px" align="left" />
-
-## Plaay ME
-
-###### Backend & Frontend Developer; São Paulo, Brazil; April 2014 — November 2014
-
-> Plaay was a musical genre startup that was born in early 2013.
-
-Projects:
-
-- Development of internal systems and applications in CakePHP
-- Development of the end-user application (music player) in Backbone Marionette and Node Webkit for desktop application.
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<img src="https://user-images.githubusercontent.com/3277185/57595521-ed75d500-751b-11e9-8b8e-b998bfba63dc.png" width="50px" align="left" />
-
-## Nokitua
-
-###### Backend & Frontend Developer; São Paulo, Brazil; September 2013 — April 2014
-
-> Nokitua helps companies of all sizes create interactive experiences and solve complex problems.
-
-Projects:
-
-- Development of websites in WordPress
-- Development of applications in CakePHP
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-<img src="https://user-images.githubusercontent.com/3277185/57595523-eea70200-751b-11e9-9c07-3a81fcb1558d.png" width="50px" align="left" />
-
-## EMBI Marketing
-
-###### Web designer apprentice; São Paulo, Brazil; May 2011 — January 2012
-
-> EMBI Marketing is a company specialized in Planning and Strategies for Website Optimization (SEO),
-> Sponsored Links, Email Marketing, Social Media and Graphic Solutions, Web, Desktop and Mobile.
-
-Projects:
-
-- Development of email marketing with anti-spam and cross-browser/platform techniques.
-- Development of sites in wordpress, with great focus on SEO.
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-# Published articles
+## Published articles
 
 - **[Demystifying bundlers](https://rena.to/blog/demystifying-bundlers)** - A friendly introduction to whats and hows
 - **[GraphQL in TypeScript over the years](https://rena.to/blog/graphql-in-typescript-over-the-years)** - How things have changed and still can change
@@ -188,14 +95,12 @@ Projects:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-# Skills
+## Skills
 
 I have many skills that I have developed during these years of experience in the professional market.
 Today, though, my focus is on JS ecossystem: **React**, **Next.js**, **GraphQL**, **TypeScript**, **Node**, also **PostgreSQL** and **Drizzle**.
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
-# Open Source
+## Open Source
 
 I consider Open Source very important because I can give back to the community everything I already consume from it.  
 In addition, I consider it the best way to acquire knowledge in a self-taught way (e.g. studying other people's code and receiving third-party adjustments in repos), as well as practicing social and collaborative skills (e.g. receive code review from people you do not even know, plus the dialogue involved).
@@ -212,14 +117,10 @@ I contributed:
 - [Ariakit](https://github.com/ariakit/ariakit/commits?author=renatorib)
 - [Emotion](https://github.com/emotion-js/emotion/commits?author=renatorib)
 
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
-
 # Languages
 
 - **Portuguese:** Native
 - **English:** Intermediate
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Links
 
