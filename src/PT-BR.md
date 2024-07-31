@@ -72,6 +72,8 @@ Desenvolvedor de software com mais de 12 anos de experiência em desenvolvimento
 
 - Desenvolvimento de sites em wordpress e sistemas em CakePHP para clientes diversos.
 
+<br />
+
 ### Web designer aprendiz na EMBI Marketing
 
 #### São Paulo, SP; Maio 2011 — Janeiro 2012
