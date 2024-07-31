@@ -33,6 +33,7 @@ await Promise.all(
       })
     );
     await fs.writeFile(`${DEST}/${name}.html`, html);
+    console.log(`Generated ${DEST}/${name}.html`);
 
     const page = await browser.newPage();
     await page.setContent(html);
@@ -43,6 +44,7 @@ await Promise.all(
         margin: { top: "15mm", bottom: "15mm", left: "15mm", right: "15mm" },
       })
     );
+    console.log(`Generated ${DEST}/${name}.pdf`);
   })
 );
 
