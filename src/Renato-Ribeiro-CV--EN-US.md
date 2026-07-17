@@ -1,14 +1,22 @@
 # Renato Ribeiro
 
-_Senior Software Engineer, 28._  
+_Senior Software Engineer, 30._  
 _São Paulo, Brazil._  
 <sub>https://rena.to - hi@rena.to - +55 11 960762016</sub>
 
 ---
 
-Software developer with over 12 years of experience in web development and a strong specialization in React, TypeScript, Node.js, and SQL. My expertise extends to emerging technologies and modern practices, with a focus on performance, scalability, and user experience.
+Software developer with over 15 years of experience in web development and a strong specialization in React, TypeScript, Node.js, and SQL. My expertise extends to emerging technologies and modern practices, with a focus on performance, scalability, and user experience.
 
 ## Professional Experience
+
+### Senior Frontend Engineer at iFood
+
+#### February 2025 — *Current*; São Paulo, SP (Remote)
+
+- Led the frontend team and developed Ailo webapp (conversational AI agentic experience to place orders on iFood) - React, Next.js, TypeScript, react-query, TailwindCSS; Datadog, Sentry; Gitlab Pipelines.
+- Led the frontend team and developed Ailo App - React Native, Expo, TypeScript, react-query, zustand; Datadog, Sentry; Ruby, Fastlane, Gitlab Pipelines.
+- Led and/or developed other small projects like iFood Magic; The Town interactive landing promo page; internal devtools and quality of life tooling, scripts and pipelines. 
 
 ### Senior Frontend Engineer at Progic
 
