@@ -6,7 +6,7 @@ _São Paulo, Brazil._
 
 ---
 
-Software developer with over 15 years of experience in web development and a strong specialization in React, TypeScript, Node.js, and SQL. My expertise extends to emerging technologies and modern practices, with a focus on performance, scalability, and user experience.
+Software developer with over 15 years of experience in web development and a strong specialization in React, TypeScript, Node.js, and SQL. My expertise extends to emerging technologies and modern practices, with a focus on performance, scalability, and user experience; observability tools, such as APM, tracing, and error tracking; as well as product analytics. 
 
 ## Professional Experience
 
