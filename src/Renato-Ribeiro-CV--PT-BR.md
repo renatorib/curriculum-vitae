@@ -14,8 +14,9 @@ Desenvolvedor de software com mais de 15 anos de experiência em desenvolvimento
 
 #### Fevereiro 2025 — *Atual*; São Paulo, SP (Remoto)
 
-- Liderança técnica do time de frontend do Ailo (uma experiência conversacional IA agêntica para pedidos no iFood), embedado por webview e bridges no app do iFood — React, Next.js, TypeScript, react-query, TailwindCSS; Datadog, Sentry.
-- Liderança técnica do time do app do Ailo — React Native, Expo, TypeScript, zustand, react-query; Datadog, Sentry. 
+- Liderança técnica do time de frontend do Ailo (uma experiência conversacional IA agêntica para pedidos no iFood), embedado por webview e bridges no app do iFood — React, Next.js, TypeScript, react-query, TailwindCSS, Framer Motion; Datadog, Sentry; Gitlab Pipelines.
+- Liderança técnica do time do app do Ailo — React Native, Expo, TypeScript, zustand, react-query; Datadog, Sentry; Ruby, Fastlane, Gitlab Pipelines.
+- Desenvolvimento de outros projetos menores como iFood Magic; The Town interactive promo page; internal devtools; tooling, scripts e pipelines.
 
 ### Senior Frontend Engineer na Progic
 
