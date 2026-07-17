@@ -24,7 +24,9 @@ const [css] = await Promise.all([
 ]);
 
 // Build files
-const browser = await puppeteer.launch();
+const browser = await puppeteer.launch({
+  args: ["--no-sandbox"],
+});
 await Promise.all(
   fg.globSync(["src/**/*.md"]).map(async (file) => {
     const name = path.basename(file).split(".").at(0);
