@@ -1,14 +1,21 @@
 # Renato Ribeiro
 
-_Software Engineer, 28 anos._  
+_Software Engineer, 30 anos._  
 _São Paulo, SP, Brasil._  
 <sup>https://rena.to - hi@rena.to - (11) 96076-2016</sup>
 
 ---
 
-Desenvolvedor de software com mais de 12 anos de experiência em desenvolvimento web e sólida especialização em **React**, **TypeScript**, **Node.js** e **SQL**. Meu conhecimento se estende a tecnologias emergentes e práticas modernas, com o foco em desempenho, escabilidade e experiência do usuário.
+Desenvolvedor de software com mais de 15 anos de experiência em desenvolvimento web e sólida especialização em **React**, **TypeScript**, **Node.js** e **SQL**. Meu conhecimento se estende a tecnologias emergentes e práticas modernas, com o foco em desempenho, escabilidade e experiência do usuário; ferramentas de observabilidade, como APM, tracing, error tracking; além de product analytics. 
 
 ## Experiências Profissionais
+
+### Senior Frontend Engineer no iFood
+
+#### Fevereiro 2025 — *Atual*; São Paulo, SP (Remoto)
+
+- Liderança técnica do time de frontend do Ailo (uma experiência conversacional IA agêntica para pedidos no iFood), embedado por webview e bridges no app do iFood — React, Next.js, TypeScript, react-query, TailwindCSS; Datadog, Sentry.
+- Liderança técnica do time do app do Ailo — React Native, Expo, TypeScript, zustand, react-query; Datadog, Sentry. 
 
 ### Senior Frontend Engineer na Progic
 
